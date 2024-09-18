@@ -34,24 +34,31 @@ def main():
     lex_df = pd.read_csv('dataset/lex.csv')
     pop_20_39_df = pd.read_csv('dataset/population_aged_20_39_years_both_sexes_percent.csv')
     gdp_df = pd.read_csv('dataset/gdp_pcap.csv')
+    area_df = pd.read_csv('dataset/surface_area_sq_km.csv')
+    urban_df = pd.read_csv('dataset/urban_population_percent_of_total.csv')
+    bmi_df = pd.read_csv('dataset/body_mass_index_bmi_men_kgperm2.csv')
 
     # Melt the dataframes to have year as a column
     pop_df = pd.melt(pop_df, id_vars=['country'], var_name='year', value_name='population')
     lex_df = pd.melt(lex_df, id_vars=['country'], var_name='year', value_name='life_expectancy')
     pop_20_39_df = pd.melt(pop_20_39_df, id_vars=['country'], var_name='year', value_name='pop_20_39_percent')
     gdp_df = pd.melt(gdp_df, id_vars=['country'], var_name='year', value_name='gdp_per_capita')
+    area_df = pd.melt(area_df, id_vars=['country'], var_name='year', value_name='surface_area_sq_km')
+    urban_df = pd.melt(urban_df, id_vars=['country'], var_name='year', value_name='urban_population_percent')
+    bmi_df = pd.melt(bmi_df, id_vars=['country'], var_name='year', value_name='bmi')
 
     # Convert year to int
-    for df in [pop_df, lex_df, pop_20_39_df, gdp_df]:
+    for df in [pop_df, lex_df, pop_20_39_df, gdp_df, area_df, urban_df, bmi_df]:
         df['year'] = df['year'].astype(int)
 
     # Apply value_to_float function to population and gdp_per_capita columns
     pop_df['population'] = pop_df['population'].apply(value_to_float)
     gdp_df['gdp_per_capita'] = gdp_df['gdp_per_capita'].apply(value_to_float)
+    area_df['surface_area_sq_km'] = area_df['surface_area_sq_km'].apply(value_to_float)
 
     # Merge all dataframes
     final_df = medals_df.copy()
-    for df in [pop_df, lex_df, pop_20_39_df, gdp_df]:
+    for df in [pop_df, lex_df, pop_20_39_df, gdp_df, area_df, urban_df, bmi_df]:
         final_df = final_df.merge(df, left_on=['country_name', 'year'], right_on=['country', 'year'], how='left')
         final_df = final_df.drop('country', axis=1)  # Drop the redundant 'country' column after each merge
 
@@ -77,7 +84,7 @@ def main():
     print(final_df.info())
 
     # Save the final dataframe to a CSV file
-    final_df.to_csv('olympic_analysis_data.csv', index=False)
+    final_df.to_csv('olympic_analysis_data_updated.csv', index=False)
 
 if __name__ == '__main__':
     main()
