@@ -1,0 +1,1336 @@
+country_name,country_code_2,country_code_3,year,total_medal_count,hosting_status,slug_game
+United States of America,US,USA,1928,58,0,amsterdam-1928
+Germany,DE,GER,1928,33,0,amsterdam-1928
+Finland,FI,FIN,1928,24,0,amsterdam-1928
+Sweden,SE,SWE,1928,24,0,amsterdam-1928
+Great Britain,GB,GBR,1928,22,0,amsterdam-1928
+France,FR,FRA,1928,21,0,amsterdam-1928
+Netherlands,NL,NED,1928,20,1,amsterdam-1928
+Italy,IT,ITA,1928,19,0,amsterdam-1928
+Canada,CA,CAN,1928,16,0,amsterdam-1928
+Switzerland,CH,SUI,1928,15,0,amsterdam-1928
+Czechoslovakia,CSHH,TCH,1928,9,0,amsterdam-1928
+Hungary,HU,HUN,1928,9,0,amsterdam-1928
+Argentina,AR,ARG,1928,7,0,amsterdam-1928
+Denmark,DK,DEN,1928,6,0,amsterdam-1928
+Estonia,EE,EST,1928,5,0,amsterdam-1928
+Japan,JP,JPN,1928,5,0,amsterdam-1928
+Poland,PL,POL,1928,5,0,amsterdam-1928
+Yugoslavia,YUCS,YUG,1928,5,0,amsterdam-1928
+Australia,AU,AUS,1928,4,0,amsterdam-1928
+Austria,AT,AUT,1928,4,0,amsterdam-1928
+Egypt,EG,EGY,1928,4,0,amsterdam-1928
+Belgium,BE,BEL,1928,3,0,amsterdam-1928
+Norway,NO,NOR    ,1928,3,0,amsterdam-1928
+Norway,NO,NOR,1928,3,0,amsterdam-1928
+South Africa,ZA,RSA,1928,3,0,amsterdam-1928
+Chile,CL,CHI,1928,1,0,amsterdam-1928
+Haiti,HT,HAI,1928,1,0,amsterdam-1928
+India,IN,IND,1928,1,0,amsterdam-1928
+Ireland,IE,IRL,1928,1,0,amsterdam-1928
+New Zealand,NZ,NZL,1928,1,0,amsterdam-1928
+Philippines,PH,PHI,1928,1,0,amsterdam-1928
+Portugal,PT,POR,1928,1,0,amsterdam-1928
+Spain,ES,ESP,1928,1,0,amsterdam-1928
+Uruguay,UY,URU,1928,1,0,amsterdam-1928
+United States of America,US,USA,1920,96,0,antwerp-1920
+Sweden,SE,SWE,1920,64,0,antwerp-1920
+Great Britain,GB,GBR,1920,48,0,antwerp-1920
+France,FR,FRA,1920,45,0,antwerp-1920
+Belgium,BE,BEL,1920,36,1,antwerp-1920
+Finland,FI,FIN,1920,35,0,antwerp-1920
+Norway,NO,NOR    ,1920,32,0,antwerp-1920
+Norway,NO,NOR,1920,32,0,antwerp-1920
+Italy,IT,ITA,1920,24,0,antwerp-1920
+Denmark,DK,DEN,1920,13,0,antwerp-1920
+Netherlands,NL,NED,1920,13,0,antwerp-1920
+South Africa,ZA,RSA,1920,11,0,antwerp-1920
+Switzerland,CH,SUI,1920,11,0,antwerp-1920
+Canada,CA,CAN,1920,9,0,antwerp-1920
+Australia,AU,AUS,1920,3,0,antwerp-1920
+Brazil,BR,BRA,1920,3,0,antwerp-1920
+Czechoslovakia,CSHH,TCH,1920,3,0,antwerp-1920
+Estonia,EE,EST,1920,3,0,antwerp-1920
+Japan,JP,JPN,1920,3,0,antwerp-1920
+Spain,ES,ESP,1920,2,0,antwerp-1920
+Greece,GR,GRE,1920,1,0,antwerp-1920
+Luxembourg,LU,LUX,1920,1,0,antwerp-1920
+New Zealand,NZ,NZL,1920,1,0,antwerp-1920
+Greece,GR,GRE,1896,49,1,athens-1896
+United States of America,US,USA,1896,20,0,athens-1896
+Germany,DE,GER,1896,13,0,athens-1896
+France,FR,FRA,1896,11,0,athens-1896
+Great Britain,GB,GBR,1896,7,0,athens-1896
+Denmark,DK,DEN,1896,6,0,athens-1896
+Hungary,HU,HUN,1896,6,0,athens-1896
+Austria,AT,AUT,1896,5,0,athens-1896
+Switzerland,CH,SUI,1896,3,0,athens-1896
+Australia,AU,AUS,1896,2,0,athens-1896
+United States of America,US,USA,2004,106,0,athens-2004
+Russian Federation,RU,RUS,2004,95,0,athens-2004
+People's Republic of China,CN,CHN,2004,74,0,athens-2004
+Germany,DE,GER,2004,57,0,athens-2004
+Australia,AU,AUS,2004,56,0,athens-2004
+Japan,JP,JPN,2004,39,0,athens-2004
+Great Britain,GB,GBR,2004,37,0,athens-2004
+France,FR,FRA,2004,36,0,athens-2004
+Italy,IT,ITA,2004,34,0,athens-2004
+Republic of Korea,KR,KOR,2004,34,0,athens-2004
+Cuba,CU,CUB,2004,28,0,athens-2004
+Spain,ES,ESP,2004,24,0,athens-2004
+Netherlands,NL,NED,2004,23,0,athens-2004
+Ukraine,UA,UKR,2004,23,0,athens-2004
+Romania,RO,ROU,2004,21,0,athens-2004
+Greece,GR,GRE,2004,19,1,athens-2004
+Hungary,HU,HUN,2004,19,0,athens-2004
+Belarus,BY,BLR,2004,15,0,athens-2004
+Canada,CA,CAN,2004,14,0,athens-2004
+Brazil,BR,BRA,2004,13,0,athens-2004
+Bulgaria,BG,BUL,2004,12,0,athens-2004
+Poland,PL,POL,2004,12,0,athens-2004
+Czech Republic,CZ,CZE,2004,10,0,athens-2004
+Denmark,DK,DEN,2004,10,0,athens-2004
+Turkey,TR,TUR,2004,10,0,athens-2004
+Sweden,SE,SWE,2004,9,0,athens-2004
+Argentina,AR,ARG,2004,8,0,athens-2004
+Austria,AT,AUT,2004,8,0,athens-2004
+Kazakhstan,KZ,KAZ,2004,8,0,athens-2004
+Thailand,TH,THA,2004,8,0,athens-2004
+Croatia,HR,CRO,2004,7,0,athens-2004
+Ethiopia,ET,ETH,2004,7,0,athens-2004
+Kenya,KE,KEN,2004,7,0,athens-2004
+Norway,NO,NOR    ,2004,7,0,athens-2004
+Norway,NO,NOR,2004,7,0,athens-2004
+Slovakia,SK,SVK,2004,7,0,athens-2004
+South Africa,ZA,RSA,2004,7,0,athens-2004
+Switzerland,CH,SUI,2004,7,0,athens-2004
+Islamic Republic of Iran,IR,IRI,2004,6,0,athens-2004
+New Zealand,NZ,NZL,2004,6,0,athens-2004
+Azerbaijan,AZ,AZE,2004,5,0,athens-2004
+Chinese Taipei,TW,TPE,2004,5,0,athens-2004
+Democratic People's Republic of Korea,KP,PRK,2004,5,0,athens-2004
+Egypt,EG,EGY,2004,5,0,athens-2004
+Indonesia,ID,INA,2004,5,0,athens-2004
+Jamaica,JM,JAM,2004,5,0,athens-2004
+Slovenia,SI,SLO,2004,5,0,athens-2004
+Uzbekistan,UZ,UZB,2004,5,0,athens-2004
+Chile,CL,CHI,2004,4,0,athens-2004
+Georgia,GE,GEO,2004,4,0,athens-2004
+Latvia,LV,LAT,2004,4,0,athens-2004
+Mexico,MX,MEX,2004,4,0,athens-2004
+Belgium,BE,BEL,2004,3,0,athens-2004
+Estonia,EE,EST,2004,3,0,athens-2004
+Lithuania,LT,LTU,2004,3,0,athens-2004
+Morocco,MA,MAR,2004,3,0,athens-2004
+Portugal,PT,POR,2004,3,0,athens-2004
+Zimbabwe,ZW,ZIM,2004,3,0,athens-2004
+Bahamas,BS,BAH,2004,2,0,athens-2004
+Colombia,CO,COL,2004,2,0,athens-2004
+Finland,FI,FIN,2004,2,0,athens-2004
+"Hong Kong, China",HK,HKG,2004,2,0,athens-2004
+Israel,IL,ISR,2004,2,0,athens-2004
+Nigeria,NG,NGR,2004,2,0,athens-2004
+Serbia and Montenegro,CSXX,SCG,2004,2,0,athens-2004
+Venezuela,VE,VEN,2004,2,0,athens-2004
+Cameroon,CM,CMR,2004,1,0,athens-2004
+Dominican Republic,DO,DOM,2004,1,0,athens-2004
+Eritrea,ER,ERI,2004,1,0,athens-2004
+India,IN,IND,2004,1,0,athens-2004
+Mongolia,MN,MGL,2004,1,0,athens-2004
+Paraguay,PY,PAR,2004,1,0,athens-2004
+Syrian Arab Republic,SY,SYR,2004,1,0,athens-2004
+Trinidad and Tobago,TT,TTO,2004,1,0,athens-2004
+United Arab Emirates,AE,UAE,2004,1,0,athens-2004
+United States of America,US,USA,1996,106,0,atlanta-1996
+Germany,DE,GER,1996,71,0,atlanta-1996
+Russian Federation,RU,RUS,1996,63,0,atlanta-1996
+People's Republic of China,CN,CHN,1996,58,0,atlanta-1996
+Australia,AU,AUS,1996,51,0,atlanta-1996
+France,FR,FRA,1996,41,0,atlanta-1996
+Italy,IT,ITA,1996,38,0,atlanta-1996
+Republic of Korea,KR,KOR,1996,32,0,atlanta-1996
+Cuba,CU,CUB,1996,25,0,atlanta-1996
+Ukraine,UA,UKR,1996,25,0,atlanta-1996
+Canada,CA,CAN,1996,24,0,atlanta-1996
+Hungary,HU,HUN,1996,23,0,atlanta-1996
+Romania,RO,ROU,1996,23,0,atlanta-1996
+Netherlands,NL,NED,1996,21,0,atlanta-1996
+Spain,ES,ESP,1996,20,0,atlanta-1996
+Brazil,BR,BRA,1996,19,0,atlanta-1996
+Great Britain,GB,GBR,1996,18,0,atlanta-1996
+Poland,PL,POL,1996,17,0,atlanta-1996
+Bulgaria,BG,BUL,1996,16,0,atlanta-1996
+Belarus,BY,BLR,1996,15,0,atlanta-1996
+Japan,JP,JPN,1996,15,0,atlanta-1996
+Czech Republic,CZ,CZE,1996,13,0,atlanta-1996
+Kazakhstan,KZ,KAZ,1996,11,0,atlanta-1996
+Sweden,SE,SWE,1996,10,0,atlanta-1996
+Greece,GR,GRE,1996,8,0,atlanta-1996
+Kenya,KE,KEN,1996,8,0,atlanta-1996
+Norway,NO,NOR    ,1996,8,0,atlanta-1996
+Norway,NO,NOR,1996,8,0,atlanta-1996
+Switzerland,CH,SUI,1996,8,0,atlanta-1996
+Belgium,BE,BEL,1996,6,0,atlanta-1996
+Denmark,DK,DEN,1996,6,0,atlanta-1996
+Indonesia,ID,INA,1996,6,0,atlanta-1996
+Jamaica,JM,JAM,1996,6,0,atlanta-1996
+New Zealand,NZ,NZL,1996,6,0,atlanta-1996
+Nigeria,NG,NGR,1996,6,0,atlanta-1996
+Turkey,TR,TUR,1996,6,0,atlanta-1996
+Democratic People's Republic of Korea,KP,PRK,1996,5,0,atlanta-1996
+South Africa,ZA,RSA,1996,5,0,atlanta-1996
+Finland,FI,FIN,1996,4,0,atlanta-1996
+Ireland,IE,IRL,1996,4,0,atlanta-1996
+Serbia and Montenegro,CSXX,SCG,1996,4,0,atlanta-1996
+Algeria,DZ,ALG,1996,3,0,atlanta-1996
+Argentina,AR,ARG,1996,3,0,atlanta-1996
+Austria,AT,AUT,1996,3,0,atlanta-1996
+Ethiopia,ET,ETH,1996,3,0,atlanta-1996
+Islamic Republic of Iran,IR,IRI,1996,3,0,atlanta-1996
+Malaysia,MY,MAS,1996,3,0,atlanta-1996
+Portugal,PT,POR,1996,3,0,atlanta-1996
+Republic of Moldova,MD,MDA,1996,3,0,atlanta-1996
+Slovakia,SK,SVK,1996,3,0,atlanta-1996
+Armenia,AM,ARM,1996,2,0,atlanta-1996
+Croatia,HR,CRO,1996,2,0,atlanta-1996
+Georgia,GE,GEO,1996,2,0,atlanta-1996
+Morocco,MA,MAR,1996,2,0,atlanta-1996
+Slovenia,SI,SLO,1996,2,0,atlanta-1996
+Thailand,TH,THA,1996,2,0,atlanta-1996
+Uzbekistan,UZ,UZB,1996,2,0,atlanta-1996
+Azerbaijan,AZ,AZE,1996,1,0,atlanta-1996
+Bahamas,BS,BAH,1996,1,0,atlanta-1996
+Burundi,BI,BDI,1996,1,0,atlanta-1996
+Chinese Taipei,TW,TPE,1996,1,0,atlanta-1996
+Costa Rica,CR,CRC,1996,1,0,atlanta-1996
+Ecuador,EC,ECU,1996,1,0,atlanta-1996
+"Hong Kong, China",HK,HKG,1996,1,0,atlanta-1996
+India,IN,IND,1996,1,0,atlanta-1996
+Israel,IL,ISR,1996,1,0,atlanta-1996
+Latvia,LV,LAT,1996,1,0,atlanta-1996
+Lithuania,LT,LTU,1996,1,0,atlanta-1996
+Mexico,MX,MEX,1996,1,0,atlanta-1996
+Mongolia,MN,MGL,1996,1,0,atlanta-1996
+Mozambique,MZ,MOZ,1996,1,0,atlanta-1996
+Philippines,PH,PHI,1996,1,0,atlanta-1996
+Puerto Rico,PR,PUR,1996,1,0,atlanta-1996
+Syrian Arab Republic,SY,SYR,1996,1,0,atlanta-1996
+Tonga,TO,TGA,1996,1,0,atlanta-1996
+Tunisia,TN,TUN,1996,1,0,atlanta-1996
+Uganda,UG,UGA,1996,1,0,atlanta-1996
+Zambia,ZM,ZAM,1996,1,0,atlanta-1996
+United States of America,US,USA,1992,117,0,barcelona-1992
+Germany,DE,GER,1992,92,0,barcelona-1992
+People's Republic of China,CN,CHN,1992,61,0,barcelona-1992
+Republic of Korea,KR,KOR,1992,35,0,barcelona-1992
+France,FR,FRA,1992,32,0,barcelona-1992
+Cuba,CU,CUB,1992,31,0,barcelona-1992
+Hungary,HU,HUN,1992,31,0,barcelona-1992
+Australia,AU,AUS,1992,30,0,barcelona-1992
+Spain,ES,ESP,1992,26,1,barcelona-1992
+Japan,JP,JPN,1992,23,0,barcelona-1992
+Canada,CA,CAN,1992,21,0,barcelona-1992
+Great Britain,GB,GBR,1992,21,0,barcelona-1992
+Poland,PL,POL,1992,21,0,barcelona-1992
+Italy,IT,ITA,1992,20,0,barcelona-1992
+Romania,RO,ROU,1992,19,0,barcelona-1992
+Bulgaria,BG,BUL,1992,17,0,barcelona-1992
+Netherlands,NL,NED,1992,16,0,barcelona-1992
+Sweden,SE,SWE,1992,14,0,barcelona-1992
+New Zealand,NZ,NZL,1992,12,0,barcelona-1992
+Democratic People's Republic of Korea,KP,PRK,1992,10,0,barcelona-1992
+Czechoslovakia,CSHH,TCH,1992,8,0,barcelona-1992
+Denmark,DK,DEN,1992,8,0,barcelona-1992
+Kenya,KE,KEN,1992,8,0,barcelona-1992
+Norway,NO,NOR    ,1992,7,0,barcelona-1992
+Norway,NO,NOR,1992,7,0,barcelona-1992
+Indonesia,ID,INA,1992,6,0,barcelona-1992
+Turkey,TR,TUR,1992,6,0,barcelona-1992
+Finland,FI,FIN,1992,5,0,barcelona-1992
+Croatia,HR,CRO,1992,4,0,barcelona-1992
+Jamaica,JM,JAM,1992,4,0,barcelona-1992
+Nigeria,NG,NGR,1992,4,0,barcelona-1992
+Austria,AT,AUT,1992,3,0,barcelona-1992
+Belgium,BE,BEL,1992,3,0,barcelona-1992
+Brazil,BR,BRA,1992,3,0,barcelona-1992
+Estonia,EE,EST,1992,3,0,barcelona-1992
+Ethiopia,ET,ETH,1992,3,0,barcelona-1992
+Independent Olympic Athletes,IOA,IOA,1992,3,0,barcelona-1992
+Islamic Republic of Iran,IR,IRI,1992,3,0,barcelona-1992
+Latvia,LV,LAT,1992,3,0,barcelona-1992
+Morocco,MA,MAR,1992,3,0,barcelona-1992
+Slovenia,SI,SLO,1992,3,0,barcelona-1992
+South Africa,ZA,RSA,1992,3,0,barcelona-1992
+Algeria,DZ,ALG,1992,2,0,barcelona-1992
+Argentina,AR,ARG,1992,2,0,barcelona-1992
+Greece,GR,GRE,1992,2,0,barcelona-1992
+Ireland,IE,IRL,1992,2,0,barcelona-1992
+Israel,IL,ISR,1992,2,0,barcelona-1992
+Lithuania,LT,LTU,1992,2,0,barcelona-1992
+Malaysia,MY,MAS,1992,2,0,barcelona-1992
+Mongolia,MN,MGL,1992,2,0,barcelona-1992
+Bahamas,BS,BAH,1992,1,0,barcelona-1992
+Chinese Taipei,TW,TPE,1992,1,0,barcelona-1992
+Colombia,CO,COL,1992,1,0,barcelona-1992
+Ghana,GH,GHA,1992,1,0,barcelona-1992
+Mexico,MX,MEX,1992,1,0,barcelona-1992
+Pakistan,PK,PAK,1992,1,0,barcelona-1992
+Peru,PE,PER,1992,1,0,barcelona-1992
+Philippines,PH,PHI,1992,1,0,barcelona-1992
+Puerto Rico,PR,PUR,1992,1,0,barcelona-1992
+Qatar,QA,QAT,1992,1,0,barcelona-1992
+Suriname,SR,SUR,1992,1,0,barcelona-1992
+Switzerland,CH,SUI,1992,1,0,barcelona-1992
+Thailand,TH,THA,1992,1,0,barcelona-1992
+United States of America,US,USA,2008,116,0,beijing-2008
+People's Republic of China,CN,CHN,2008,113,0,beijing-2008
+Russian Federation,RU,RUS,2008,67,0,beijing-2008
+Great Britain,GB,GBR,2008,56,0,beijing-2008
+Australia,AU,AUS,2008,52,0,beijing-2008
+Germany,DE,GER,2008,49,0,beijing-2008
+France,FR,FRA,2008,45,0,beijing-2008
+Republic of Korea,KR,KOR,2008,35,0,beijing-2008
+Cuba,CU,CUB,2008,30,0,beijing-2008
+Italy,IT,ITA,2008,28,0,beijing-2008
+Japan,JP,JPN,2008,26,0,beijing-2008
+Spain,ES,ESP,2008,25,0,beijing-2008
+Ukraine,UA,UKR,2008,23,0,beijing-2008
+Canada,CA,CAN,2008,22,0,beijing-2008
+Brazil,BR,BRA,2008,21,0,beijing-2008
+Netherlands,NL,NED,2008,18,0,beijing-2008
+Belarus,BY,BLR,2008,17,0,beijing-2008
+Kenya,KE,KEN,2008,16,0,beijing-2008
+Hungary,HU,HUN,2008,12,0,beijing-2008
+Poland,PL,POL,2008,12,0,beijing-2008
+New Zealand,NZ,NZL,2008,11,0,beijing-2008
+Denmark,DK,DEN,2008,10,0,beijing-2008
+Jamaica,JM,JAM,2008,10,0,beijing-2008
+Romania,RO,ROU,2008,10,0,beijing-2008
+Kazakhstan,KZ,KAZ,2008,9,0,beijing-2008
+Norway,NO,NOR    ,2008,9,0,beijing-2008
+Norway,NO,NOR,2008,9,0,beijing-2008
+Argentina,AR,ARG,2008,8,0,beijing-2008
+Czech Republic,CZ,CZE,2008,8,0,beijing-2008
+Indonesia,ID,INA,2008,8,0,beijing-2008
+Switzerland,CH,SUI,2008,8,0,beijing-2008
+Ethiopia,ET,ETH,2008,7,0,beijing-2008
+Georgia,GE,GEO,2008,7,0,beijing-2008
+Slovakia,SK,SVK,2008,7,0,beijing-2008
+Sweden,SE,SWE,2008,7,0,beijing-2008
+Azerbaijan,AZ,AZE,2008,6,0,beijing-2008
+Democratic People's Republic of Korea,KP,PRK,2008,6,0,beijing-2008
+Thailand,TH,THA,2008,6,0,beijing-2008
+Armenia,AM,ARM,2008,5,0,beijing-2008
+Bulgaria,BG,BUL,2008,5,0,beijing-2008
+Croatia,HR,CRO,2008,5,0,beijing-2008
+Finland,FI,FIN,2008,5,0,beijing-2008
+Lithuania,LT,LTU,2008,5,0,beijing-2008
+Mexico,MX,MEX,2008,5,0,beijing-2008
+Nigeria,NG,NGR,2008,5,0,beijing-2008
+Slovenia,SI,SLO,2008,5,0,beijing-2008
+Turkey,TR,TUR,2008,5,0,beijing-2008
+Chinese Taipei,TW,TPE,2008,4,0,beijing-2008
+Greece,GR,GRE,2008,4,0,beijing-2008
+Mongolia,MN,MGL,2008,4,0,beijing-2008
+Uzbekistan,UZ,UZB,2008,4,0,beijing-2008
+Zimbabwe,ZW,ZIM,2008,4,0,beijing-2008
+Austria,AT,AUT,2008,3,0,beijing-2008
+Colombia,CO,COL,2008,3,0,beijing-2008
+Estonia,EE,EST,2008,3,0,beijing-2008
+India,IN,IND,2008,3,0,beijing-2008
+Ireland,IE,IRL,2008,3,0,beijing-2008
+Kyrgyzstan,KG,KGZ,2008,3,0,beijing-2008
+Latvia,LV,LAT,2008,3,0,beijing-2008
+Serbia,RS,SRB,2008,3,0,beijing-2008
+Algeria,DZ,ALG,2008,2,0,beijing-2008
+Bahamas,BS,BAH,2008,2,0,beijing-2008
+Belgium,BE,BEL,2008,2,0,beijing-2008
+Dominican Republic,DO,DOM,2008,2,0,beijing-2008
+Egypt,EG,EGY,2008,2,0,beijing-2008
+Islamic Republic of Iran,IR,IRI,2008,2,0,beijing-2008
+Morocco,MA,MAR,2008,2,0,beijing-2008
+Portugal,PT,POR,2008,2,0,beijing-2008
+Tajikistan,TJ,TJK,2008,2,0,beijing-2008
+Afghanistan,AF,AFG,2008,1,0,beijing-2008
+Cameroon,CM,CMR,2008,1,0,beijing-2008
+Chile,CL,CHI,2008,1,0,beijing-2008
+Ecuador,EC,ECU,2008,1,0,beijing-2008
+Iceland,IS,ISL,2008,1,0,beijing-2008
+Israel,IL,ISR,2008,1,0,beijing-2008
+Malaysia,MY,MAS,2008,1,0,beijing-2008
+Mauritius,MU,MRI,2008,1,0,beijing-2008
+Panama,PA,PAN,2008,1,0,beijing-2008
+Republic of Moldova,MD,MDA,2008,1,0,beijing-2008
+Samoa,WS,SAM,2008,1,0,beijing-2008
+Singapore,SG,SGP,2008,1,0,beijing-2008
+South Africa,ZA,RSA,2008,1,0,beijing-2008
+Sudan,SD,SUD,2008,1,0,beijing-2008
+Togo,TG,TOG,2008,1,0,beijing-2008
+Tunisia,TN,TUN,2008,1,0,beijing-2008
+Venezuela,VE,VEN,2008,1,0,beijing-2008
+Vietnam,VN,VIE,2008,1,0,beijing-2008
+Germany,DE,GER,1936,89,1,berlin-1936
+United States of America,US,USA,1936,55,0,berlin-1936
+Italy,IT,ITA,1936,22,0,berlin-1936
+Finland,FI,FIN,1936,19,0,berlin-1936
+France,FR,FRA,1936,19,0,berlin-1936
+Sweden,SE,SWE,1936,19,0,berlin-1936
+Japan,JP,JPN,1936,18,0,berlin-1936
+Netherlands,NL,NED,1936,18,0,berlin-1936
+Hungary,HU,HUN,1936,16,0,berlin-1936
+Switzerland,CH,SUI,1936,15,0,berlin-1936
+Great Britain,GB,GBR,1936,14,0,berlin-1936
+Austria,AT,AUT,1936,11,0,berlin-1936
+Canada,CA,CAN,1936,9,0,berlin-1936
+Argentina,AR,ARG,1936,8,0,berlin-1936
+Czechoslovakia,CSHH,TCH,1936,8,0,berlin-1936
+Estonia,EE,EST,1936,7,0,berlin-1936
+Poland,PL,POL,1936,7,0,berlin-1936
+Denmark,DK,DEN,1936,6,0,berlin-1936
+Norway,NO,NOR    ,1936,6,0,berlin-1936
+Norway,NO,NOR,1936,6,0,berlin-1936
+Egypt,EG,EGY,1936,5,0,berlin-1936
+Mexico,MX,MEX,1936,3,0,berlin-1936
+Belgium,BE,BEL,1936,2,0,berlin-1936
+Latvia,LV,LAT,1936,2,0,berlin-1936
+Turkey,TR,TUR,1936,2,0,berlin-1936
+Australia,AU,AUS,1936,1,0,berlin-1936
+India,IN,IND,1936,1,0,berlin-1936
+New Zealand,NZ,NZL,1936,1,0,berlin-1936
+Philippines,PH,PHI,1936,1,0,berlin-1936
+Portugal,PT,POR,1936,1,0,berlin-1936
+Romania,RO,ROU,1936,1,0,berlin-1936
+South Africa,ZA,RSA,1936,1,0,berlin-1936
+Yugoslavia,YUCS,YUG,1936,1,0,berlin-1936
+United States of America,US,USA,1952,77,0,helsinki-1952
+Hungary,HU,HUN,1952,40,0,helsinki-1952
+Sweden,SE,SWE,1952,34,0,helsinki-1952
+Germany,DE,GER,1952,23,0,helsinki-1952
+Italy,IT,ITA,1952,23,0,helsinki-1952
+Finland,FI,FIN,1952,21,1,helsinki-1952
+France,FR,FRA,1952,17,0,helsinki-1952
+Switzerland,CH,SUI,1952,15,0,helsinki-1952
+Czechoslovakia,CSHH,TCH,1952,13,0,helsinki-1952
+Australia,AU,AUS,1952,12,0,helsinki-1952
+Great Britain,GB,GBR,1952,11,0,helsinki-1952
+South Africa,ZA,RSA,1952,11,0,helsinki-1952
+Japan,JP,JPN,1952,9,0,helsinki-1952
+Denmark,DK,DEN,1952,7,0,helsinki-1952
+Islamic Republic of Iran,IR,IRI,1952,7,0,helsinki-1952
+Argentina,AR,ARG,1952,6,0,helsinki-1952
+Belgium,BE,BEL,1952,5,0,helsinki-1952
+Jamaica,JM,JAM,1952,5,0,helsinki-1952
+Netherlands,NL,NED,1952,5,0,helsinki-1952
+Norway,NO,NOR    ,1952,5,0,helsinki-1952
+Norway,NO,NOR,1952,5,0,helsinki-1952
+Poland,PL,POL,1952,4,0,helsinki-1952
+Romania,RO,ROU,1952,4,0,helsinki-1952
+Austria,AT,AUT,1952,3,0,helsinki-1952
+Brazil,BR,BRA,1952,3,0,helsinki-1952
+New Zealand,NZ,NZL,1952,3,0,helsinki-1952
+Turkey,TR,TUR,1952,3,0,helsinki-1952
+Uruguay,UY,URU,1952,3,0,helsinki-1952
+Yugoslavia,YUCS,YUG,1952,3,0,helsinki-1952
+Canada,CA,CAN,1952,2,0,helsinki-1952
+Chile,CL,CHI,1952,2,0,helsinki-1952
+India,IN,IND,1952,2,0,helsinki-1952
+Portugal,PT,POR,1952,2,0,helsinki-1952
+Republic of Korea,KR,KOR,1952,2,0,helsinki-1952
+Trinidad and Tobago,TT,TTO,1952,2,0,helsinki-1952
+Bulgaria,BG,BUL,1952,1,0,helsinki-1952
+Egypt,EG,EGY,1952,1,0,helsinki-1952
+Ireland,IE,IRL,1952,1,0,helsinki-1952
+Luxembourg,LU,LUX,1952,1,0,helsinki-1952
+Mexico,MX,MEX,1952,1,0,helsinki-1952
+Spain,ES,ESP,1952,1,0,helsinki-1952
+Venezuela,VE,VEN,1952,1,0,helsinki-1952
+Great Britain,GB,GBR,1908,160,1,london-1908
+United States of America,US,USA,1908,47,0,london-1908
+Sweden,SE,SWE,1908,26,0,london-1908
+France,FR,FRA,1908,20,0,london-1908
+Canada,CA,CAN,1908,17,0,london-1908
+Germany,DE,GER,1908,15,0,london-1908
+Hungary,HU,HUN,1908,9,0,london-1908
+Belgium,BE,BEL,1908,8,0,london-1908
+Norway,NO,NOR    ,1908,8,0,london-1908
+Norway,NO,NOR,1908,8,0,london-1908
+Denmark,DK,DEN,1908,5,0,london-1908
+Finland,FI,FIN,1908,5,0,london-1908
+Greece,GR,GRE,1908,4,0,london-1908
+Italy,IT,ITA,1908,4,0,london-1908
+Russian Federation,RU,RUS,1908,3,0,london-1908
+Netherlands,NL,NED,1908,2,0,london-1908
+South Africa,ZA,RSA,1908,2,0,london-1908
+Austria,AT,AUT,1908,1,0,london-1908
+United States of America,US,USA,1948,88,0,london-1948
+Sweden,SE,SWE,1948,46,0,london-1948
+France,FR,FRA,1948,32,0,london-1948
+Italy,IT,ITA,1948,29,0,london-1948
+Great Britain,GB,GBR,1948,27,1,london-1948
+Hungary,HU,HUN,1948,27,0,london-1948
+Denmark,DK,DEN,1948,22,0,london-1948
+Finland,FI,FIN,1948,22,0,london-1948
+Switzerland,CH,SUI,1948,21,0,london-1948
+Netherlands,NL,NED,1948,17,0,london-1948
+Australia,AU,AUS,1948,13,0,london-1948
+Czechoslovakia,CSHH,TCH,1948,13,0,london-1948
+Turkey,TR,TUR,1948,12,0,london-1948
+Norway,NO,NOR    ,1948,8,0,london-1948
+Norway,NO,NOR,1948,8,0,london-1948
+Argentina,AR,ARG,1948,7,0,london-1948
+Belgium,BE,BEL,1948,7,0,london-1948
+Egypt,EG,EGY,1948,5,0,london-1948
+Mexico,MX,MEX,1948,5,0,london-1948
+Austria,AT,AUT,1948,4,0,london-1948
+South Africa,ZA,RSA,1948,4,0,london-1948
+Canada,CA,CAN,1948,3,0,london-1948
+Jamaica,JM,JAM,1948,3,0,london-1948
+Portugal,PT,POR,1948,3,0,london-1948
+Uruguay,UY,URU,1948,3,0,london-1948
+Cuba,CU,CUB,1948,2,0,london-1948
+Panama,PA,PAN,1948,2,0,london-1948
+Republic of Korea,KR,KOR,1948,2,0,london-1948
+Yugoslavia,YUCS,YUG,1948,2,0,london-1948
+Brazil,BR,BRA,1948,1,0,london-1948
+India,IN,IND,1948,1,0,london-1948
+Islamic Republic of Iran,IR,IRI,1948,1,0,london-1948
+Peru,PE,PER,1948,1,0,london-1948
+Poland,PL,POL,1948,1,0,london-1948
+Puerto Rico,PR,PUR,1948,1,0,london-1948
+Spain,ES,ESP,1948,1,0,london-1948
+Sri Lanka,LK,SRI,1948,1,0,london-1948
+United States of America,US,USA,2012,112,0,london-2012
+People's Republic of China,CN,CHN,2012,102,0,london-2012
+Great Britain,GB,GBR,2012,77,1,london-2012
+Russian Federation,RU,RUS,2012,73,0,london-2012
+Germany,DE,GER,2012,49,0,london-2012
+Australia,AU,AUS,2012,40,0,london-2012
+Japan,JP,JPN,2012,39,0,london-2012
+France,FR,FRA,2012,38,0,london-2012
+Republic of Korea,KR,KOR,2012,31,0,london-2012
+Italy,IT,ITA,2012,29,0,london-2012
+Netherlands,NL,NED,2012,21,0,london-2012
+Spain,ES,ESP,2012,21,0,london-2012
+Brazil,BR,BRA,2012,20,0,london-2012
+Canada,CA,CAN,2012,20,0,london-2012
+Hungary,HU,HUN,2012,20,0,london-2012
+New Zealand,NZ,NZL,2012,19,0,london-2012
+Ukraine,UA,UKR,2012,19,0,london-2012
+Cuba,CU,CUB,2012,15,0,london-2012
+Belarus,BY,BLR,2012,13,0,london-2012
+Denmark,DK,DEN,2012,13,0,london-2012
+Islamic Republic of Iran,IR,IRI,2012,13,0,london-2012
+Poland,PL,POL,2012,13,0,london-2012
+Czech Republic,CZ,CZE,2012,12,0,london-2012
+Jamaica,JM,JAM,2012,12,0,london-2012
+Kenya,KE,KEN,2012,12,0,london-2012
+Kazakhstan,KZ,KAZ,2012,11,0,london-2012
+Azerbaijan,AZ,AZE,2012,10,0,london-2012
+Mexico,MX,MEX,2012,10,0,london-2012
+Colombia,CO,COL,2012,9,0,london-2012
+Sweden,SE,SWE,2012,9,0,london-2012
+Democratic People's Republic of Korea,KP,PRK,2012,7,0,london-2012
+Ethiopia,ET,ETH,2012,7,0,london-2012
+Romania,RO,ROU,2012,7,0,london-2012
+Croatia,HR,CRO,2012,6,0,london-2012
+Georgia,GE,GEO,2012,6,0,london-2012
+India,IN,IND,2012,6,0,london-2012
+Ireland,IE,IRL,2012,6,0,london-2012
+South Africa,ZA,RSA,2012,6,0,london-2012
+Argentina,AR,ARG,2012,5,0,london-2012
+Lithuania,LT,LTU,2012,5,0,london-2012
+Mongolia,MN,MGL,2012,5,0,london-2012
+Slovakia,SK,SVK,2012,5,0,london-2012
+Slovenia,SI,SLO,2012,5,0,london-2012
+Egypt,EG,EGY,2012,4,0,london-2012
+Norway,NO,NOR    ,2012,4,0,london-2012
+Norway,NO,NOR,2012,4,0,london-2012
+Serbia,RS,SRB,2012,4,0,london-2012
+Switzerland,CH,SUI,2012,4,0,london-2012
+Thailand,TH,THA,2012,4,0,london-2012
+Belgium,BE,BEL,2012,3,0,london-2012
+Bulgaria,BG,BUL,2012,3,0,london-2012
+Finland,FI,FIN,2012,3,0,london-2012
+Greece,GR,GRE,2012,3,0,london-2012
+Indonesia,ID,INA,2012,3,0,london-2012
+Latvia,LV,LAT,2012,3,0,london-2012
+Tunisia,TN,TUN,2012,3,0,london-2012
+Turkey,TR,TUR,2012,3,0,london-2012
+Armenia,AM,ARM,2012,2,0,london-2012
+Chinese Taipei,TW,TPE,2012,2,0,london-2012
+Dominican Republic,DO,DOM,2012,2,0,london-2012
+Estonia,EE,EST,2012,2,0,london-2012
+Malaysia,MY,MAS,2012,2,0,london-2012
+Portugal,PT,POR,2012,2,0,london-2012
+Puerto Rico,PR,PUR,2012,2,0,london-2012
+Qatar,QA,QAT,2012,2,0,london-2012
+Singapore,SG,SGP,2012,2,0,london-2012
+Uzbekistan,UZ,UZB,2012,2,0,london-2012
+Afghanistan,AF,AFG,2012,1,0,london-2012
+Algeria,DZ,ALG,2012,1,0,london-2012
+Bahamas,BS,BAH,2012,1,0,london-2012
+Bahrain,BH,BRN,2012,1,0,london-2012
+Botswana,BW,BOT,2012,1,0,london-2012
+Cameroon,CM,CMR,2012,1,0,london-2012
+Cyprus,CY,CYP,2012,1,0,london-2012
+Gabon,GA,GAB,2012,1,0,london-2012
+Grenada,GD,GRN,2012,1,0,london-2012
+Guatemala,GT,GUA,2012,1,0,london-2012
+"Hong Kong, China",HK,HKG,2012,1,0,london-2012
+Kuwait,KW,KUW,2012,1,0,london-2012
+Montenegro,ME,MNE,2012,1,0,london-2012
+Morocco,MA,MAR,2012,1,0,london-2012
+Saudi Arabia,SA,KSA,2012,1,0,london-2012
+Tajikistan,TJ,TJK,2012,1,0,london-2012
+Uganda,UG,UGA,2012,1,0,london-2012
+Venezuela,VE,VEN,2012,1,0,london-2012
+United States of America,US,USA,1932,105,0,los-angeles-1932
+Italy,IT,ITA,1932,36,0,los-angeles-1932
+Finland,FI,FIN,1932,25,0,los-angeles-1932
+Sweden,SE,SWE,1932,24,0,los-angeles-1932
+Germany,DE,GER,1932,21,0,los-angeles-1932
+France,FR,FRA,1932,20,0,los-angeles-1932
+Great Britain,GB,GBR,1932,19,0,los-angeles-1932
+Japan,JP,JPN,1932,18,0,los-angeles-1932
+Canada,CA,CAN,1932,16,0,los-angeles-1932
+Hungary,HU,HUN,1932,15,0,los-angeles-1932
+Poland,PL,POL,1932,8,0,los-angeles-1932
+Denmark,DK,DEN,1932,7,0,los-angeles-1932
+Netherlands,NL,NED,1932,7,0,los-angeles-1932
+Australia,AU,AUS,1932,5,0,los-angeles-1932
+Austria,AT,AUT,1932,5,0,los-angeles-1932
+South Africa,ZA,RSA,1932,5,0,los-angeles-1932
+Argentina,AR,ARG,1932,4,0,los-angeles-1932
+Czechoslovakia,CSHH,TCH,1932,4,0,los-angeles-1932
+Philippines,PH,PHI,1932,3,0,los-angeles-1932
+Ireland,IE,IRL,1932,2,0,los-angeles-1932
+Mexico,MX,MEX,1932,2,0,los-angeles-1932
+New Zealand,NZ,NZL,1932,2,0,los-angeles-1932
+India,IN,IND,1932,1,0,los-angeles-1932
+Latvia,LV,LAT,1932,1,0,los-angeles-1932
+Spain,ES,ESP,1932,1,0,los-angeles-1932
+Switzerland,CH,SUI,1932,1,0,los-angeles-1932
+Uruguay,UY,URU,1932,1,0,los-angeles-1932
+United States of America,US,USA,1984,180,0,los-angeles-1984
+Federal Republic of Germany,DE,FRG,1984,62,0,los-angeles-1984
+Romania,RO,ROU,1984,58,0,los-angeles-1984
+Canada,CA,CAN,1984,51,0,los-angeles-1984
+Great Britain,GB,GBR,1984,38,0,los-angeles-1984
+Italy,IT,ITA,1984,33,0,los-angeles-1984
+Japan,JP,JPN,1984,33,0,los-angeles-1984
+People's Republic of China,CN,CHN,1984,32,0,los-angeles-1984
+France,FR,FRA,1984,31,0,los-angeles-1984
+Australia,AU,AUS,1984,26,0,los-angeles-1984
+Sweden,SE,SWE,1984,21,0,los-angeles-1984
+Yugoslavia,YUCS,YUG,1984,21,0,los-angeles-1984
+Republic of Korea,KR,KOR,1984,19,0,los-angeles-1984
+Netherlands,NL,NED,1984,14,0,los-angeles-1984
+New Zealand,NZ,NZL,1984,13,0,los-angeles-1984
+Finland,FI,FIN,1984,12,0,los-angeles-1984
+Brazil,BR,BRA,1984,8,0,los-angeles-1984
+Spain,ES,ESP,1984,8,0,los-angeles-1984
+Switzerland,CH,SUI,1984,8,0,los-angeles-1984
+Denmark,DK,DEN,1984,6,0,los-angeles-1984
+Mexico,MX,MEX,1984,6,0,los-angeles-1984
+Belgium,BE,BEL,1984,5,0,los-angeles-1984
+Norway,NO,NOR    ,1984,4,0,los-angeles-1984
+Norway,NO,NOR,1984,4,0,los-angeles-1984
+Austria,AT,AUT,1984,3,0,los-angeles-1984
+Jamaica,JM,JAM,1984,3,0,los-angeles-1984
+Kenya,KE,KEN,1984,3,0,los-angeles-1984
+Portugal,PT,POR,1984,3,0,los-angeles-1984
+Turkey,TR,TUR,1984,3,0,los-angeles-1984
+Venezuela,VE,VEN,1984,3,0,los-angeles-1984
+Algeria,DZ,ALG,1984,2,0,los-angeles-1984
+Greece,GR,GRE,1984,2,0,los-angeles-1984
+Morocco,MA,MAR,1984,2,0,los-angeles-1984
+Nigeria,NG,NGR,1984,2,0,los-angeles-1984
+Puerto Rico,PR,PUR,1984,2,0,los-angeles-1984
+Cameroon,CM,CMR,1984,1,0,los-angeles-1984
+Chinese Taipei,TW,TPE,1984,1,0,los-angeles-1984
+Colombia,CO,COL,1984,1,0,los-angeles-1984
+Côte d'Ivoire,CI,CIV,1984,1,0,los-angeles-1984
+Dominican Republic,DO,DOM,1984,1,0,los-angeles-1984
+Egypt,EG,EGY,1984,1,0,los-angeles-1984
+Iceland,IS,ISL,1984,1,0,los-angeles-1984
+Ireland,IE,IRL,1984,1,0,los-angeles-1984
+Pakistan,PK,PAK,1984,1,0,los-angeles-1984
+Peru,PE,PER,1984,1,0,los-angeles-1984
+Syrian Arab Republic,SY,SYR,1984,1,0,los-angeles-1984
+Thailand,TH,THA,1984,1,0,los-angeles-1984
+Zambia,ZM,ZAM,1984,1,0,los-angeles-1984
+United States of America,US,USA,1956,77,0,melbourne-1956
+Australia,AU,AUS,1956,39,0,melbourne-1956
+Hungary,HU,HUN,1956,29,0,melbourne-1956
+Italy,IT,ITA,1956,24,0,melbourne-1956
+Germany,DE,GER,1956,22,0,melbourne-1956
+Great Britain,GB,GBR,1956,22,0,melbourne-1956
+Japan,JP,JPN,1956,19,0,melbourne-1956
+Sweden,SE,SWE,1956,16,0,melbourne-1956
+Finland,FI,FIN,1956,15,0,melbourne-1956
+France,FR,FRA,1956,15,0,melbourne-1956
+Romania,RO,ROU,1956,14,0,melbourne-1956
+Poland,PL,POL,1956,9,0,melbourne-1956
+Czechoslovakia,CSHH,TCH,1956,7,0,melbourne-1956
+Turkey,TR,TUR,1956,7,0,melbourne-1956
+Bulgaria,BG,BUL,1956,5,0,melbourne-1956
+Canada,CA,CAN,1956,5,0,melbourne-1956
+Ireland,IE,IRL,1956,5,0,melbourne-1956
+Islamic Republic of Iran,IR,IRI,1956,5,0,melbourne-1956
+Austria,AT,AUT,1956,4,0,melbourne-1956
+Chile,CL,CHI,1956,4,0,melbourne-1956
+South Africa,ZA,RSA,1956,4,0,melbourne-1956
+Denmark,DK,DEN,1956,3,0,melbourne-1956
+New Zealand,NZ,NZL,1956,3,0,melbourne-1956
+Norway,NO,NOR    ,1956,3,0,melbourne-1956
+Norway,NO,NOR,1956,3,0,melbourne-1956
+Yugoslavia,YUCS,YUG,1956,3,0,melbourne-1956
+Argentina,AR,ARG,1956,2,0,melbourne-1956
+Bahamas,BS,BAH,1956,2,0,melbourne-1956
+Belgium,BE,BEL,1956,2,0,melbourne-1956
+Mexico,MX,MEX,1956,2,0,melbourne-1956
+Republic of Korea,KR,KOR,1956,2,0,melbourne-1956
+Brazil,BR,BRA,1956,1,0,melbourne-1956
+Greece,GR,GRE,1956,1,0,melbourne-1956
+Iceland,IS,ISL,1956,1,0,melbourne-1956
+India,IN,IND,1956,1,0,melbourne-1956
+Pakistan,PK,PAK,1956,1,0,melbourne-1956
+Uruguay,UY,URU,1956,1,0,melbourne-1956
+United States of America,US,USA,1968,110,0,mexico-city-1968
+Hungary,HU,HUN,1968,35,0,mexico-city-1968
+Federal Republic of Germany,DE,FRG,1968,28,0,mexico-city-1968
+German Democratic Republic (Germany),DDDE,GDR,1968,26,0,mexico-city-1968
+Japan,JP,JPN,1968,25,0,mexico-city-1968
+Poland,PL,POL,1968,18,0,mexico-city-1968
+Australia,AU,AUS,1968,17,0,mexico-city-1968
+Italy,IT,ITA,1968,17,0,mexico-city-1968
+France,FR,FRA,1968,16,0,mexico-city-1968
+Romania,RO,ROU,1968,16,0,mexico-city-1968
+Great Britain,GB,GBR,1968,14,0,mexico-city-1968
+Czechoslovakia,CSHH,TCH,1968,13,0,mexico-city-1968
+Bulgaria,BG,BUL,1968,9,0,mexico-city-1968
+Denmark,DK,DEN,1968,9,0,mexico-city-1968
+Kenya,KE,KEN,1968,9,0,mexico-city-1968
+Mexico,MX,MEX,1968,9,1,mexico-city-1968
+Netherlands,NL,NED,1968,9,0,mexico-city-1968
+Yugoslavia,YUCS,YUG,1968,8,0,mexico-city-1968
+Austria,AT,AUT,1968,5,0,mexico-city-1968
+Canada,CA,CAN,1968,5,0,mexico-city-1968
+Islamic Republic of Iran,IR,IRI,1968,5,0,mexico-city-1968
+Switzerland,CH,SUI,1968,5,0,mexico-city-1968
+Brazil,BR,BRA,1968,4,0,mexico-city-1968
+Cuba,CU,CUB,1968,4,0,mexico-city-1968
+Finland,FI,FIN,1968,4,0,mexico-city-1968
+Mongolia,MN,MGL,1968,4,0,mexico-city-1968
+Sweden,SE,SWE,1968,4,0,mexico-city-1968
+Belgium,BE,BEL,1968,3,0,mexico-city-1968
+New Zealand,NZ,NZL,1968,3,0,mexico-city-1968
+Norway,NO,NOR    ,1968,3,0,mexico-city-1968
+Norway,NO,NOR,1968,3,0,mexico-city-1968
+Argentina,AR,ARG,1968,2,0,mexico-city-1968
+Ethiopia,ET,ETH,1968,2,0,mexico-city-1968
+Republic of Korea,KR,KOR,1968,2,0,mexico-city-1968
+Tunisia,TN,TUN,1968,2,0,mexico-city-1968
+Turkey,TR,TUR,1968,2,0,mexico-city-1968
+Uganda,UG,UGA,1968,2,0,mexico-city-1968
+Cameroon,CM,CMR,1968,1,0,mexico-city-1968
+Chinese Taipei,TW,TPE,1968,1,0,mexico-city-1968
+Greece,GR,GRE,1968,1,0,mexico-city-1968
+India,IN,IND,1968,1,0,mexico-city-1968
+Jamaica,JM,JAM,1968,1,0,mexico-city-1968
+Pakistan,PK,PAK,1968,1,0,mexico-city-1968
+Venezuela,VE,VEN,1968,1,0,mexico-city-1968
+German Democratic Republic (Germany),DDDE,GDR,1976,97,0,montreal-1976
+United States of America,US,USA,1976,97,0,montreal-1976
+Federal Republic of Germany,DE,FRG,1976,44,0,montreal-1976
+Romania,RO,ROU,1976,29,0,montreal-1976
+Poland,PL,POL,1976,27,0,montreal-1976
+Hungary,HU,HUN,1976,26,0,montreal-1976
+Japan,JP,JPN,1976,25,0,montreal-1976
+Bulgaria,BG,BUL,1976,24,0,montreal-1976
+Great Britain,GB,GBR,1976,16,0,montreal-1976
+Cuba,CU,CUB,1976,13,0,montreal-1976
+Italy,IT,ITA,1976,13,0,montreal-1976
+Canada,CA,CAN,1976,11,1,montreal-1976
+France,FR,FRA,1976,9,0,montreal-1976
+Czechoslovakia,CSHH,TCH,1976,8,0,montreal-1976
+Yugoslavia,YUCS,YUG,1976,8,0,montreal-1976
+Australia,AU,AUS,1976,6,0,montreal-1976
+Belgium,BE,BEL,1976,6,0,montreal-1976
+Finland,FI,FIN,1976,6,0,montreal-1976
+Republic of Korea,KR,KOR,1976,6,0,montreal-1976
+Sweden,SE,SWE,1976,6,0,montreal-1976
+Netherlands,NL,NED,1976,5,0,montreal-1976
+New Zealand,NZ,NZL,1976,4,0,montreal-1976
+Switzerland,CH,SUI,1976,4,0,montreal-1976
+Brazil,BR,BRA,1976,3,0,montreal-1976
+Denmark,DK,DEN,1976,3,0,montreal-1976
+Norway,NO,NOR    ,1976,3,0,montreal-1976
+Norway,NO,NOR,1976,3,0,montreal-1976
+Spain,ES,ESP,1976,3,0,montreal-1976
+Democratic People's Republic of Korea,KP,PRK,1976,2,0,montreal-1976
+Islamic Republic of Iran,IR,IRI,1976,2,0,montreal-1976
+Jamaica,JM,JAM,1976,2,0,montreal-1976
+Mexico,MX,MEX,1976,2,0,montreal-1976
+Portugal,PT,POR,1976,2,0,montreal-1976
+Austria,AT,AUT,1976,1,0,montreal-1976
+Bermuda,BM,BER,1976,1,0,montreal-1976
+Mongolia,MN,MGL,1976,1,0,montreal-1976
+Pakistan,PK,PAK,1976,1,0,montreal-1976
+Puerto Rico,PR,PUR,1976,1,0,montreal-1976
+Thailand,TH,THA,1976,1,0,montreal-1976
+Venezuela,VE,VEN,1976,1,0,montreal-1976
+German Democratic Republic (Germany),DDDE,GDR,1980,134,0,moscow-1980
+Bulgaria,BG,BUL,1980,43,0,moscow-1980
+Hungary,HU,HUN,1980,36,0,moscow-1980
+Poland,PL,POL,1980,33,0,moscow-1980
+Romania,RO,ROU,1980,28,0,moscow-1980
+Great Britain,GB,GBR,1980,22,0,moscow-1980
+Cuba,CU,CUB,1980,20,0,moscow-1980
+Italy,IT,ITA,1980,16,0,moscow-1980
+Czechoslovakia,CSHH,TCH,1980,15,0,moscow-1980
+France,FR,FRA,1980,14,0,moscow-1980
+Sweden,SE,SWE,1980,13,0,moscow-1980
+Yugoslavia,YUCS,YUG,1980,10,0,moscow-1980
+Australia,AU,AUS,1980,9,0,moscow-1980
+Finland,FI,FIN,1980,9,0,moscow-1980
+Spain,ES,ESP,1980,9,0,moscow-1980
+Brazil,BR,BRA,1980,6,0,moscow-1980
+Denmark,DK,DEN,1980,6,0,moscow-1980
+Austria,AT,AUT,1980,5,0,moscow-1980
+Democratic People's Republic of Korea,KP,PRK,1980,5,0,moscow-1980
+Ethiopia,ET,ETH,1980,4,0,moscow-1980
+Mexico,MX,MEX,1980,4,0,moscow-1980
+Mongolia,MN,MGL,1980,4,0,moscow-1980
+Greece,GR,GRE,1980,3,0,moscow-1980
+Ireland,IE,IRL,1980,3,0,moscow-1980
+Jamaica,JM,JAM,1980,3,0,moscow-1980
+Netherlands,NL,NED,1980,3,0,moscow-1980
+Switzerland,CH,SUI,1980,2,0,moscow-1980
+United Republic of Tanzania,TZ,TAN,1980,2,0,moscow-1980
+Belgium,BE,BEL,1980,1,0,moscow-1980
+Guyana,GY,GUY,1980,1,0,moscow-1980
+India,IN,IND,1980,1,0,moscow-1980
+Uganda,UG,UGA,1980,1,0,moscow-1980
+Venezuela,VE,VEN,1980,1,0,moscow-1980
+Zimbabwe,ZW,ZIM,1980,1,0,moscow-1980
+United States of America,US,USA,1972,95,0,munich-1972
+German Democratic Republic (Germany),DDDE,GDR,1972,71,0,munich-1972
+Federal Republic of Germany,DE,FRG,1972,43,1,munich-1972
+Hungary,HU,HUN,1972,36,0,munich-1972
+Japan,JP,JPN,1972,29,0,munich-1972
+Poland,PL,POL,1972,23,0,munich-1972
+Bulgaria,BG,BUL,1972,22,0,munich-1972
+Great Britain,GB,GBR,1972,20,0,munich-1972
+Australia,AU,AUS,1972,18,0,munich-1972
+Italy,IT,ITA,1972,18,0,munich-1972
+Romania,RO,ROU,1972,18,0,munich-1972
+Sweden,SE,SWE,1972,17,0,munich-1972
+France,FR,FRA,1972,15,0,munich-1972
+Kenya,KE,KEN,1972,9,0,munich-1972
+Cuba,CU,CUB,1972,8,0,munich-1972
+Czechoslovakia,CSHH,TCH,1972,8,0,munich-1972
+Finland,FI,FIN,1972,8,0,munich-1972
+Netherlands,NL,NED,1972,6,0,munich-1972
+Canada,CA,CAN,1972,5,0,munich-1972
+Democratic People's Republic of Korea,KP,PRK,1972,5,0,munich-1972
+Norway,NO,NOR    ,1972,5,0,munich-1972
+Norway,NO,NOR,1972,5,0,munich-1972
+Yugoslavia,YUCS,YUG,1972,5,0,munich-1972
+Switzerland,CH,SUI,1972,4,0,munich-1972
+Austria,AT,AUT,1972,3,0,munich-1972
+Colombia,CO,COL,1972,3,0,munich-1972
+Islamic Republic of Iran,IR,IRI,1972,3,0,munich-1972
+New Zealand,NZ,NZL,1972,3,0,munich-1972
+Belgium,BE,BEL,1972,2,0,munich-1972
+Brazil,BR,BRA,1972,2,0,munich-1972
+Ethiopia,ET,ETH,1972,2,0,munich-1972
+Greece,GR,GRE,1972,2,0,munich-1972
+Uganda,UG,UGA,1972,2,0,munich-1972
+Argentina,AR,ARG,1972,1,0,munich-1972
+Denmark,DK,DEN,1972,1,0,munich-1972
+Ghana,GH,GHA,1972,1,0,munich-1972
+India,IN,IND,1972,1,0,munich-1972
+Jamaica,JM,JAM,1972,1,0,munich-1972
+Mexico,MX,MEX,1972,1,0,munich-1972
+Mongolia,MN,MGL,1972,1,0,munich-1972
+Niger,NE,NIG,1972,1,0,munich-1972
+Nigeria,NG,NGR,1972,1,0,munich-1972
+Pakistan,PK,PAK,1972,1,0,munich-1972
+Republic of Korea,KR,KOR,1972,1,0,munich-1972
+Spain,ES,ESP,1972,1,0,munich-1972
+Tunisia,TN,TUN,1972,1,0,munich-1972
+Turkey,TR,TUR,1972,1,0,munich-1972
+France,FR,FRA,1900,103,1,paris-1900
+United States of America,US,USA,1900,48,0,paris-1900
+Great Britain,GB,GBR,1900,35,0,paris-1900
+Belgium,BE,BEL,1900,16,0,paris-1900
+Germany,DE,GER,1900,9,0,paris-1900
+Switzerland,CH,SUI,1900,9,0,paris-1900
+Austria,AT,AUT,1900,6,0,paris-1900
+Denmark,DK,DEN,1900,6,0,paris-1900
+Australia,AU,AUS,1900,5,0,paris-1900
+Hungary,HU,HUN,1900,5,0,paris-1900
+Italy,IT,ITA,1900,5,0,paris-1900
+Netherlands,NL,NED,1900,5,0,paris-1900
+Norway,NO,NOR    ,1900,5,0,paris-1900
+Norway,NO,NOR,1900,5,0,paris-1900
+Canada,CA,CAN,1900,2,0,paris-1900
+Cuba,CU,CUB,1900,2,0,paris-1900
+India,IN,IND,1900,2,0,paris-1900
+Spain,ES,ESP,1900,2,0,paris-1900
+Luxembourg,LU,LUX,1900,1,0,paris-1900
+Sweden,SE,SWE,1900,1,0,paris-1900
+United States of America,US,USA,1924,104,0,paris-1924
+France,FR,FRA,1924,43,1,paris-1924
+Finland,FI,FIN,1924,37,0,paris-1924
+Great Britain,GB,GBR,1924,36,0,paris-1924
+Sweden,SE,SWE,1924,29,0,paris-1924
+Switzerland,CH,SUI,1924,26,0,paris-1924
+Italy,IT,ITA,1924,16,0,paris-1924
+Belgium,BE,BEL,1924,13,0,paris-1924
+Netherlands,NL,NED,1924,13,0,paris-1924
+Czechoslovakia,CSHH,TCH,1924,10,0,paris-1924
+Denmark,DK,DEN,1924,10,0,paris-1924
+Norway,NO,NOR    ,1924,10,0,paris-1924
+Norway,NO,NOR,1924,10,0,paris-1924
+Hungary,HU,HUN,1924,9,0,paris-1924
+Argentina,AR,ARG,1924,6,0,paris-1924
+Australia,AU,AUS,1924,6,0,paris-1924
+Estonia,EE,EST,1924,6,0,paris-1924
+Austria,AT,AUT,1924,4,0,paris-1924
+Canada,CA,CAN,1924,4,0,paris-1924
+South Africa,ZA,RSA,1924,3,0,paris-1924
+Poland,PL,POL,1924,2,0,paris-1924
+Yugoslavia,YUCS,YUG,1924,2,0,paris-1924
+Haiti,HT,HAI,1924,1,0,paris-1924
+Japan,JP,JPN,1924,1,0,paris-1924
+New Zealand,NZ,NZL,1924,1,0,paris-1924
+Portugal,PT,POR,1924,1,0,paris-1924
+Romania,RO,ROU,1924,1,0,paris-1924
+Uruguay,UY,URU,1924,1,0,paris-1924
+United States of America,US,USA,2016,127,0,rio-2016
+People's Republic of China,CN,CHN,2016,79,0,rio-2016
+Great Britain,GB,GBR,2016,75,0,rio-2016
+Russian Federation,RU,RUS,2016,59,0,rio-2016
+Germany,DE,GER,2016,48,0,rio-2016
+France,FR,FRA,2016,45,0,rio-2016
+Japan,JP,JPN,2016,43,0,rio-2016
+Australia,AU,AUS,2016,34,0,rio-2016
+Italy,IT,ITA,2016,31,0,rio-2016
+Canada,CA,CAN,2016,24,0,rio-2016
+Brazil,BR,BRA,2016,23,1,rio-2016
+New Zealand,NZ,NZL,2016,23,0,rio-2016
+Republic of Korea,KR,KOR,2016,22,0,rio-2016
+Netherlands,NL,NED,2016,21,0,rio-2016
+Spain,ES,ESP,2016,19,0,rio-2016
+Azerbaijan,AZ,AZE,2016,18,0,rio-2016
+Denmark,DK,DEN,2016,18,0,rio-2016
+Kazakhstan,KZ,KAZ,2016,18,0,rio-2016
+Hungary,HU,HUN,2016,16,0,rio-2016
+Kenya,KE,KEN,2016,13,0,rio-2016
+Poland,PL,POL,2016,13,0,rio-2016
+Uzbekistan,UZ,UZB,2016,13,0,rio-2016
+Croatia,HR,CRO,2016,12,0,rio-2016
+Czech Republic,CZ,CZE,2016,12,0,rio-2016
+Ukraine,UA,UKR,2016,12,0,rio-2016
+Cuba,CU,CUB,2016,11,0,rio-2016
+Jamaica,JM,JAM,2016,11,0,rio-2016
+South Africa,ZA,RSA,2016,11,0,rio-2016
+Sweden,SE,SWE,2016,11,0,rio-2016
+Belarus,BY,BLR,2016,9,0,rio-2016
+Serbia,RS,SRB,2016,9,0,rio-2016
+Colombia,CO,COL,2016,8,0,rio-2016
+Ethiopia,ET,ETH,2016,8,0,rio-2016
+Islamic Republic of Iran,IR,IRI,2016,8,0,rio-2016
+Malaysia,MY,MAS,2016,8,0,rio-2016
+Switzerland,CH,SUI,2016,8,0,rio-2016
+Turkey,TR,TUR,2016,8,0,rio-2016
+Democratic People's Republic of Korea,KP,PRK,2016,7,0,rio-2016
+Georgia,GE,GEO,2016,7,0,rio-2016
+Greece,GR,GRE,2016,7,0,rio-2016
+Lithuania,LT,LTU,2016,7,0,rio-2016
+Belgium,BE,BEL,2016,6,0,rio-2016
+Norway,NO,NOR    ,2016,6,0,rio-2016
+Norway,NO,NOR,2016,6,0,rio-2016
+Thailand,TH,THA,2016,6,0,rio-2016
+Argentina,AR,ARG,2016,5,0,rio-2016
+Mexico,MX,MEX,2016,5,0,rio-2016
+Romania,RO,ROU,2016,5,0,rio-2016
+Slovakia,SK,SVK,2016,5,0,rio-2016
+Armenia,AM,ARM,2016,4,0,rio-2016
+Indonesia,ID,INA,2016,4,0,rio-2016
+Slovenia,SI,SLO,2016,4,0,rio-2016
+Bulgaria,BG,BUL,2016,3,0,rio-2016
+Chinese Taipei,TW,TPE,2016,3,0,rio-2016
+Egypt,EG,EGY,2016,3,0,rio-2016
+Ireland,IE,IRL,2016,3,0,rio-2016
+Tunisia,TN,TUN,2016,3,0,rio-2016
+Venezuela,VE,VEN,2016,3,0,rio-2016
+Algeria,DZ,ALG,2016,2,0,rio-2016
+Austria,AT,AUT,2016,2,0,rio-2016
+Bahamas,BS,BAH,2016,2,0,rio-2016
+Bahrain,BH,BRN,2016,2,0,rio-2016
+Côte d'Ivoire,CI,CIV,2016,2,0,rio-2016
+Independent Olympic Athletes,IOA,IOA,2016,2,0,rio-2016
+India,IN,IND,2016,2,0,rio-2016
+Israel,IL,ISR,2016,2,0,rio-2016
+Mongolia,MN,MGL,2016,2,0,rio-2016
+Vietnam,VN,VIE,2016,2,0,rio-2016
+Burundi,BI,BDI,2016,1,0,rio-2016
+Dominican Republic,DO,DOM,2016,1,0,rio-2016
+Estonia,EE,EST,2016,1,0,rio-2016
+Fiji,FJ,FIJ,2016,1,0,rio-2016
+Finland,FI,FIN,2016,1,0,rio-2016
+Grenada,GD,GRN,2016,1,0,rio-2016
+Jordan,JO,JOR,2016,1,0,rio-2016
+Kosovo,XK,KOS,2016,1,0,rio-2016
+Morocco,MA,MAR,2016,1,0,rio-2016
+Niger,NE,NIG,2016,1,0,rio-2016
+Nigeria,NG,NGR,2016,1,0,rio-2016
+Philippines,PH,PHI,2016,1,0,rio-2016
+Portugal,PT,POR,2016,1,0,rio-2016
+Puerto Rico,PR,PUR,2016,1,0,rio-2016
+Qatar,QA,QAT,2016,1,0,rio-2016
+Singapore,SG,SGP,2016,1,0,rio-2016
+Tajikistan,TJ,TJK,2016,1,0,rio-2016
+United Arab Emirates,AE,UAE,2016,1,0,rio-2016
+United States of America,US,USA,1960,72,0,rome-1960
+Germany,DE,GER,1960,44,0,rome-1960
+Italy,IT,ITA,1960,38,1,rome-1960
+Hungary,HU,HUN,1960,24,0,rome-1960
+Australia,AU,AUS,1960,22,0,rome-1960
+Poland,PL,POL,1960,22,0,rome-1960
+Great Britain,GB,GBR,1960,20,0,rome-1960
+Japan,JP,JPN,1960,18,0,rome-1960
+Romania,RO,ROU,1960,10,0,rome-1960
+Czechoslovakia,CSHH,TCH,1960,9,0,rome-1960
+Turkey,TR,TUR,1960,9,0,rome-1960
+Bulgaria,BG,BUL,1960,7,0,rome-1960
+Denmark,DK,DEN,1960,7,0,rome-1960
+Sweden,SE,SWE,1960,7,0,rome-1960
+Switzerland,CH,SUI,1960,7,0,rome-1960
+Finland,FI,FIN,1960,6,0,rome-1960
+France,FR,FRA,1960,5,0,rome-1960
+Belgium,BE,BEL,1960,4,0,rome-1960
+Islamic Republic of Iran,IR,IRI,1960,4,0,rome-1960
+Austria,AT,AUT,1960,3,0,rome-1960
+Netherlands,NL,NED,1960,3,0,rome-1960
+New Zealand,NZ,NZL,1960,3,0,rome-1960
+South Africa,ZA,RSA,1960,3,0,rome-1960
+Argentina,AR,ARG,1960,2,0,rome-1960
+Brazil,BR,BRA,1960,2,0,rome-1960
+Norway,NO,NOR    ,1960,2,0,rome-1960
+Norway,NO,NOR,1960,2,0,rome-1960
+Pakistan,PK,PAK,1960,2,0,rome-1960
+Portugal,PT,POR,1960,2,0,rome-1960
+Yugoslavia,YUCS,YUG,1960,2,0,rome-1960
+Canada,CA,CAN,1960,1,0,rome-1960
+Chinese Taipei,TW,TPE,1960,1,0,rome-1960
+Ethiopia,ET,ETH,1960,1,0,rome-1960
+Ghana,GH,GHA,1960,1,0,rome-1960
+Greece,GR,GRE,1960,1,0,rome-1960
+India,IN,IND,1960,1,0,rome-1960
+Iraq,IQ,IRQ,1960,1,0,rome-1960
+Mexico,MX,MEX,1960,1,0,rome-1960
+Morocco,MA,MAR,1960,1,0,rome-1960
+Singapore,SG,SGP,1960,1,0,rome-1960
+Spain,ES,ESP,1960,1,0,rome-1960
+Venezuela,VE,VEN,1960,1,0,rome-1960
+German Democratic Republic (Germany),DDDE,GDR,1988,105,0,seoul-1988
+United States of America,US,USA,1988,101,0,seoul-1988
+Federal Republic of Germany,DE,FRG,1988,41,0,seoul-1988
+Bulgaria,BG,BUL,1988,38,0,seoul-1988
+Republic of Korea,KR,KOR,1988,35,1,seoul-1988
+People's Republic of China,CN,CHN,1988,30,0,seoul-1988
+Great Britain,GB,GBR,1988,26,0,seoul-1988
+Romania,RO,ROU,1988,26,0,seoul-1988
+Hungary,HU,HUN,1988,24,0,seoul-1988
+France,FR,FRA,1988,19,0,seoul-1988
+Poland,PL,POL,1988,18,0,seoul-1988
+New Zealand,NZ,NZL,1988,17,0,seoul-1988
+Australia,AU,AUS,1988,16,0,seoul-1988
+Japan,JP,JPN,1988,15,0,seoul-1988
+Yugoslavia,YUCS,YUG,1988,15,0,seoul-1988
+Italy,IT,ITA,1988,14,0,seoul-1988
+Sweden,SE,SWE,1988,13,0,seoul-1988
+Canada,CA,CAN,1988,12,0,seoul-1988
+Netherlands,NL,NED,1988,11,0,seoul-1988
+Czechoslovakia,CSHH,TCH,1988,10,0,seoul-1988
+Kenya,KE,KEN,1988,9,0,seoul-1988
+Brazil,BR,BRA,1988,8,0,seoul-1988
+Norway,NO,NOR    ,1988,6,0,seoul-1988
+Norway,NO,NOR,1988,6,0,seoul-1988
+Denmark,DK,DEN,1988,5,0,seoul-1988
+Spain,ES,ESP,1988,5,0,seoul-1988
+Switzerland,CH,SUI,1988,5,0,seoul-1988
+Finland,FI,FIN,1988,4,0,seoul-1988
+Morocco,MA,MAR,1988,3,0,seoul-1988
+Argentina,AR,ARG,1988,2,0,seoul-1988
+Belgium,BE,BEL,1988,2,0,seoul-1988
+Jamaica,JM,JAM,1988,2,0,seoul-1988
+Mexico,MX,MEX,1988,2,0,seoul-1988
+Turkey,TR,TUR,1988,2,0,seoul-1988
+Austria,AT,AUT,1988,1,0,seoul-1988
+Chile,CL,CHI,1988,1,0,seoul-1988
+Colombia,CO,COL,1988,1,0,seoul-1988
+Costa Rica,CR,CRC,1988,1,0,seoul-1988
+Djibouti,DJ,DJI,1988,1,0,seoul-1988
+Greece,GR,GRE,1988,1,0,seoul-1988
+Indonesia,ID,INA,1988,1,0,seoul-1988
+Islamic Republic of Iran,IR,IRI,1988,1,0,seoul-1988
+Mongolia,MN,MGL,1988,1,0,seoul-1988
+Netherlands Antilles,AN,AHO,1988,1,0,seoul-1988
+Pakistan,PK,PAK,1988,1,0,seoul-1988
+Peru,PE,PER,1988,1,0,seoul-1988
+Philippines,PH,PHI,1988,1,0,seoul-1988
+Portugal,PT,POR,1988,1,0,seoul-1988
+Senegal,SN,SEN,1988,1,0,seoul-1988
+Suriname,SR,SUR,1988,1,0,seoul-1988
+Thailand,TH,THA,1988,1,0,seoul-1988
+"Virgin Islands, US",VI,ISV,1988,1,0,seoul-1988
+United States of America,US,USA,1904,241,0,st-louis-1904
+Germany,DE,GER,1904,15,0,st-louis-1904
+Canada,CA,CAN,1904,6,0,st-louis-1904
+Australia,AU,AUS,1904,4,0,st-louis-1904
+Hungary,HU,HUN,1904,4,0,st-louis-1904
+Austria,AT,AUT,1904,3,0,st-louis-1904
+Cuba,CU,CUB,1904,3,0,st-louis-1904
+Switzerland,CH,SUI,1904,3,0,st-louis-1904
+Great Britain,GB,GBR,1904,2,0,st-louis-1904
+Greece,GR,GRE,1904,2,0,st-louis-1904
+Norway,NO,NOR    ,1904,2,0,st-louis-1904
+Norway,NO,NOR,1904,2,0,st-louis-1904
+France,FR,FRA,1904,1,0,st-louis-1904
+Sweden,SE,SWE,1912,68,1,stockholm-1912
+United States of America,US,USA,1912,63,0,stockholm-1912
+Great Britain,GB,GBR,1912,44,0,stockholm-1912
+Finland,FI,FIN,1912,26,0,stockholm-1912
+Germany,DE,GER,1912,26,0,stockholm-1912
+France,FR,FRA,1912,17,0,stockholm-1912
+Denmark,DK,DEN,1912,12,0,stockholm-1912
+Norway,NO,NOR    ,1912,10,0,stockholm-1912
+Norway,NO,NOR,1912,10,0,stockholm-1912
+Canada,CA,CAN,1912,8,0,stockholm-1912
+Hungary,HU,HUN,1912,8,0,stockholm-1912
+South Africa,ZA,RSA,1912,7,0,stockholm-1912
+Belgium,BE,BEL,1912,6,0,stockholm-1912
+Italy,IT,ITA,1912,6,0,stockholm-1912
+Austria,AT,AUT,1912,5,0,stockholm-1912
+Russian Federation,RU,RUS,1912,5,0,stockholm-1912
+Netherlands,NL,NED,1912,3,0,stockholm-1912
+Greece,GR,GRE,1912,2,0,stockholm-1912
+United States of America,US,USA,2000,102,0,sydney-2000
+Russian Federation,RU,RUS,2000,93,0,sydney-2000
+People's Republic of China,CN,CHN,2000,70,0,sydney-2000
+Australia,AU,AUS,2000,69,1,sydney-2000
+Germany,DE,GER,2000,64,0,sydney-2000
+France,FR,FRA,2000,42,0,sydney-2000
+Italy,IT,ITA,2000,38,0,sydney-2000
+Great Britain,GB,GBR,2000,31,0,sydney-2000
+Republic of Korea,KR,KOR,2000,31,0,sydney-2000
+Cuba,CU,CUB,2000,30,0,sydney-2000
+Romania,RO,ROU,2000,30,0,sydney-2000
+Netherlands,NL,NED,2000,27,0,sydney-2000
+Ukraine,UA,UKR,2000,25,0,sydney-2000
+Hungary,HU,HUN,2000,21,0,sydney-2000
+Japan,JP,JPN,2000,19,0,sydney-2000
+Poland,PL,POL,2000,18,0,sydney-2000
+Belarus,BY,BLR,2000,17,0,sydney-2000
+Brazil,BR,BRA,2000,16,0,sydney-2000
+Canada,CA,CAN,2000,16,0,sydney-2000
+Bulgaria,BG,BUL,2000,13,0,sydney-2000
+Greece,GR,GRE,2000,13,0,sydney-2000
+Sweden,SE,SWE,2000,13,0,sydney-2000
+Spain,ES,ESP,2000,12,0,sydney-2000
+Norway,NO,NOR    ,2000,11,0,sydney-2000
+Norway,NO,NOR,2000,11,0,sydney-2000
+Czech Republic,CZ,CZE,2000,9,0,sydney-2000
+Jamaica,JM,JAM,2000,9,0,sydney-2000
+Switzerland,CH,SUI,2000,9,0,sydney-2000
+Ethiopia,ET,ETH,2000,8,0,sydney-2000
+Indonesia,ID,INA,2000,8,0,sydney-2000
+Belgium,BE,BEL,2000,7,0,sydney-2000
+Kazakhstan,KZ,KAZ,2000,7,0,sydney-2000
+Kenya,KE,KEN,2000,7,0,sydney-2000
+Denmark,DK,DEN,2000,6,0,sydney-2000
+Georgia,GE,GEO,2000,6,0,sydney-2000
+Lithuania,LT,LTU,2000,6,0,sydney-2000
+Mexico,MX,MEX,2000,6,0,sydney-2000
+Slovakia,SK,SVK,2000,6,0,sydney-2000
+Algeria,DZ,ALG,2000,5,0,sydney-2000
+Argentina,AR,ARG,2000,5,0,sydney-2000
+Chinese Taipei,TW,TPE,2000,5,0,sydney-2000
+Finland,FI,FIN,2000,5,0,sydney-2000
+Morocco,MA,MAR,2000,5,0,sydney-2000
+South Africa,ZA,RSA,2000,5,0,sydney-2000
+Turkey,TR,TUR,2000,5,0,sydney-2000
+Austria,AT,AUT,2000,4,0,sydney-2000
+Democratic People's Republic of Korea,KP,PRK,2000,4,0,sydney-2000
+Islamic Republic of Iran,IR,IRI,2000,4,0,sydney-2000
+New Zealand,NZ,NZL,2000,4,0,sydney-2000
+Uzbekistan,UZ,UZB,2000,4,0,sydney-2000
+Azerbaijan,AZ,AZE,2000,3,0,sydney-2000
+Bahamas,BS,BAH,2000,3,0,sydney-2000
+Estonia,EE,EST,2000,3,0,sydney-2000
+Latvia,LV,LAT,2000,3,0,sydney-2000
+Nigeria,NG,NGR,2000,3,0,sydney-2000
+Serbia and Montenegro,CSXX,SCG,2000,3,0,sydney-2000
+Slovenia,SI,SLO,2000,3,0,sydney-2000
+Thailand,TH,THA,2000,3,0,sydney-2000
+Costa Rica,CR,CRC,2000,2,0,sydney-2000
+Croatia,HR,CRO,2000,2,0,sydney-2000
+Portugal,PT,POR,2000,2,0,sydney-2000
+Republic of Moldova,MD,MDA,2000,2,0,sydney-2000
+Saudi Arabia,SA,KSA,2000,2,0,sydney-2000
+Trinidad and Tobago,TT,TTO,2000,2,0,sydney-2000
+Armenia,AM,ARM,2000,1,0,sydney-2000
+Barbados,BB,BAR,2000,1,0,sydney-2000
+Cameroon,CM,CMR,2000,1,0,sydney-2000
+Chile,CL,CHI,2000,1,0,sydney-2000
+Colombia,CO,COL,2000,1,0,sydney-2000
+Iceland,IS,ISL,2000,1,0,sydney-2000
+India,IN,IND,2000,1,0,sydney-2000
+Ireland,IE,IRL,2000,1,0,sydney-2000
+Israel,IL,ISR,2000,1,0,sydney-2000
+Kuwait,KW,KUW,2000,1,0,sydney-2000
+Kyrgyzstan,KG,KGZ,2000,1,0,sydney-2000
+Mozambique,MZ,MOZ,2000,1,0,sydney-2000
+North Macedonia,MK,MKD,2000,1,0,sydney-2000
+Qatar,QA,QAT,2000,1,0,sydney-2000
+Sri Lanka,LK,SRI,2000,1,0,sydney-2000
+Uruguay,UY,URU,2000,1,0,sydney-2000
+Vietnam,VN,VIE,2000,1,0,sydney-2000
+United States of America,US,USA,1964,94,0,tokyo-1964
+Germany,DE,GER,1964,54,0,tokyo-1964
+Japan,JP,JPN,1964,29,1,tokyo-1964
+Italy,IT,ITA,1964,28,0,tokyo-1964
+Poland,PL,POL,1964,23,0,tokyo-1964
+Hungary,HU,HUN,1964,22,0,tokyo-1964
+Great Britain,GB,GBR,1964,19,0,tokyo-1964
+Australia,AU,AUS,1964,18,0,tokyo-1964
+France,FR,FRA,1964,16,0,tokyo-1964
+Czechoslovakia,CSHH,TCH,1964,15,0,tokyo-1964
+Romania,RO,ROU,1964,13,0,tokyo-1964
+Netherlands,NL,NED,1964,12,0,tokyo-1964
+Bulgaria,BG,BUL,1964,10,0,tokyo-1964
+Sweden,SE,SWE,1964,10,0,tokyo-1964
+Denmark,DK,DEN,1964,7,0,tokyo-1964
+New Zealand,NZ,NZL,1964,6,0,tokyo-1964
+Turkey,TR,TUR,1964,6,0,tokyo-1964
+Canada,CA,CAN,1964,5,0,tokyo-1964
+Finland,FI,FIN,1964,5,0,tokyo-1964
+Yugoslavia,YUCS,YUG,1964,5,0,tokyo-1964
+Switzerland,CH,SUI,1964,4,0,tokyo-1964
+Belgium,BE,BEL,1964,3,0,tokyo-1964
+Republic of Korea,KR,KOR,1964,3,0,tokyo-1964
+Trinidad and Tobago,TT,TTO,1964,3,0,tokyo-1964
+Bahamas,BS,BAH,1964,2,0,tokyo-1964
+Islamic Republic of Iran,IR,IRI,1964,2,0,tokyo-1964
+Tunisia,TN,TUN,1964,2,0,tokyo-1964
+Argentina,AR,ARG,1964,1,0,tokyo-1964
+Brazil,BR,BRA,1964,1,0,tokyo-1964
+Cuba,CU,CUB,1964,1,0,tokyo-1964
+Ethiopia,ET,ETH,1964,1,0,tokyo-1964
+Ghana,GH,GHA,1964,1,0,tokyo-1964
+India,IN,IND,1964,1,0,tokyo-1964
+Ireland,IE,IRL,1964,1,0,tokyo-1964
+Kenya,KE,KEN,1964,1,0,tokyo-1964
+Mexico,MX,MEX,1964,1,0,tokyo-1964
+Nigeria,NG,NGR,1964,1,0,tokyo-1964
+Pakistan,PK,PAK,1964,1,0,tokyo-1964
+Philippines,PH,PHI,1964,1,0,tokyo-1964
+Uruguay,UY,URU,1964,1,0,tokyo-1964
+United States of America,US,USA,2020,118,0,tokyo-2020
+People's Republic of China,CN,CHN,2020,104,0,tokyo-2020
+ROC,ROC,ROC,2020,81,0,tokyo-2020
+Great Britain,GB,GBR,2020,71,0,tokyo-2020
+Japan,JP,JPN,2020,60,1,tokyo-2020
+Australia,AU,AUS,2020,50,0,tokyo-2020
+Germany,DE,GER,2020,46,0,tokyo-2020
+Italy,IT,ITA,2020,43,0,tokyo-2020
+Netherlands,NL,NED,2020,41,0,tokyo-2020
+France,FR,FRA,2020,37,0,tokyo-2020
+Canada,CA,CAN,2020,27,0,tokyo-2020
+New Zealand,NZ,NZL,2020,25,0,tokyo-2020
+Brazil,BR,BRA,2020,23,0,tokyo-2020
+Republic of Korea,KR,KOR,2020,22,0,tokyo-2020
+Ukraine,UA,UKR,2020,22,0,tokyo-2020
+Hungary,HU,HUN,2020,21,0,tokyo-2020
+Spain,ES,ESP,2020,19,0,tokyo-2020
+Cuba,CU,CUB,2020,16,0,tokyo-2020
+Poland,PL,POL,2020,16,0,tokyo-2020
+Switzerland,CH,SUI,2020,15,0,tokyo-2020
+Chinese Taipei,TW,TPE,2020,14,0,tokyo-2020
+Denmark,DK,DEN,2020,14,0,tokyo-2020
+Czech Republic,CZ,CZE,2020,13,0,tokyo-2020
+Turkey,TR,TUR,2020,13,0,tokyo-2020
+Croatia,HR,CRO,2020,11,0,tokyo-2020
+Kenya,KE,KEN,2020,10,0,tokyo-2020
+Sweden,SE,SWE,2020,10,0,tokyo-2020
+Jamaica,JM,JAM,2020,9,0,tokyo-2020
+Norway,NO,NOR    ,2020,9,0,tokyo-2020
+Norway,NO,NOR,2020,9,0,tokyo-2020
+Serbia,RS,SRB,2020,9,0,tokyo-2020
+Georgia,GE,GEO,2020,8,0,tokyo-2020
+Kazakhstan,KZ,KAZ,2020,8,0,tokyo-2020
+Austria,AT,AUT,2020,7,0,tokyo-2020
+Azerbaijan,AZ,AZE,2020,7,0,tokyo-2020
+Belarus,BY,BLR,2020,7,0,tokyo-2020
+Belgium,BE,BEL,2020,7,0,tokyo-2020
+India,IN,IND,2020,7,0,tokyo-2020
+Islamic Republic of Iran,IR,IRI,2020,7,0,tokyo-2020
+Bulgaria,BG,BUL,2020,6,0,tokyo-2020
+Egypt,EG,EGY,2020,6,0,tokyo-2020
+"Hong Kong, China",HK,HKG,2020,6,0,tokyo-2020
+Indonesia,ID,INA,2020,6,0,tokyo-2020
+Mexico,MX,MEX,2020,6,0,tokyo-2020
+Romania,RO,ROU,2020,6,0,tokyo-2020
+Colombia,CO,COL,2020,5,0,tokyo-2020
+Dominican Republic,DO,DOM,2020,5,0,tokyo-2020
+Ireland,IE,IRL,2020,5,0,tokyo-2020
+Slovenia,SI,SLO,2020,5,0,tokyo-2020
+Uzbekistan,UZ,UZB,2020,5,0,tokyo-2020
+Armenia,AM,ARM,2020,4,0,tokyo-2020
+Ethiopia,ET,ETH,2020,4,0,tokyo-2020
+Greece,GR,GRE,2020,4,0,tokyo-2020
+Israel,IL,ISR,2020,4,0,tokyo-2020
+Mongolia,MN,MGL,2020,4,0,tokyo-2020
+Philippines,PH,PHI,2020,4,0,tokyo-2020
+Portugal,PT,POR,2020,4,0,tokyo-2020
+Qatar,QA,QAT,2020,4,0,tokyo-2020
+San Marino,SM,SMR,2020,4,0,tokyo-2020
+Slovakia,SK,SVK,2020,4,0,tokyo-2020
+Uganda,UG,UGA,2020,4,0,tokyo-2020
+Venezuela,VE,VEN,2020,4,0,tokyo-2020
+Argentina,AR,ARG,2020,3,0,tokyo-2020
+Ecuador,EC,ECU,2020,3,0,tokyo-2020
+Kyrgyzstan,KG,KGZ,2020,3,0,tokyo-2020
+Malaysia,MY,MAS,2020,3,0,tokyo-2020
+South Africa,ZA,RSA,2020,3,0,tokyo-2020
+Bahamas,BS,BAH,2020,2,0,tokyo-2020
+Estonia,EE,EST,2020,2,0,tokyo-2020
+Fiji,FJ,FIJ,2020,2,0,tokyo-2020
+Finland,FI,FIN,2020,2,0,tokyo-2020
+Jordan,JO,JOR,2020,2,0,tokyo-2020
+Kosovo,XK,KOS,2020,2,0,tokyo-2020
+Latvia,LV,LAT,2020,2,0,tokyo-2020
+Nigeria,NG,NGR,2020,2,0,tokyo-2020
+Thailand,TH,THA,2020,2,0,tokyo-2020
+Tunisia,TN,TUN,2020,2,0,tokyo-2020
+Bahrain,BH,BRN,2020,1,0,tokyo-2020
+Bermuda,BM,BER,2020,1,0,tokyo-2020
+Botswana,BW,BOT,2020,1,0,tokyo-2020
+Burkina Faso,BF,BUR,2020,1,0,tokyo-2020
+Côte d'Ivoire,CI,CIV,2020,1,0,tokyo-2020
+Ghana,GH,GHA,2020,1,0,tokyo-2020
+Grenada,GD,GRN,2020,1,0,tokyo-2020
+Kuwait,KW,KUW,2020,1,0,tokyo-2020
+Lithuania,LT,LTU,2020,1,0,tokyo-2020
+Morocco,MA,MAR,2020,1,0,tokyo-2020
+North Macedonia,MK,MKD,2020,1,0,tokyo-2020
+Puerto Rico,PR,PUR,2020,1,0,tokyo-2020
+Republic of Moldova,MD,MDA,2020,1,0,tokyo-2020
+Saudi Arabia,SA,KSA,2020,1,0,tokyo-2020
+Syrian Arab Republic,SY,SYR,2020,1,0,tokyo-2020
+Turkmenistan,TM,TKM,2020,1,0,tokyo-2020
