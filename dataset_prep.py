@@ -5,27 +5,72 @@ def value_to_float(x):
     """
     Function to convert the values in the columns to float
     Example:
-    1.2K -> 1200.0
-    1.2M -> 1200000.0
+        1.2K -> 1200.0
+        1.2M -> 1200000.0
     Usage:
-    df['col'] = df['col'].apply(value_to_float)
+        df['col'] = df['col'].apply(value_to_float)
     """
     if type(x) == float or type(x) == int:
         return x
-    if type(x) == str and x.isnumeric():
-        return float(x)
-    if 'k' in x:
-        if len(x) > 1:
-            return float(x.replace('k', '')) * 1000
-        return 1000.0
-    if 'M' in x:
-        if len(x) > 1:
-            return float(x.replace('M', '')) * 1000000
-        return 1000000.0
-    if 'B' in x:
-        return float(x.replace('B', '')) * 1000000000
+    if type(x) == str:
+        if x.isnumeric():
+            return float(x)
+        if '\U00002013' in x: 
+            float(x.replace('\U00002013', '-'))
+        if 'k' in x:
+            if len(x) > 1:
+                return float(x.replace('k', '')) * 1000
+            return 1000.0
+        if 'M' in x:
+            if len(x) > 1:
+                return float(x.replace('M', '')) * 1000000
+            return 1000000.0
+        if 'B' in x:
+            return float(x.replace('B', '')) * 1000000000
     
     return 0.
+
+def interpolate_years(df: pd.DataFrame, year_range: tuple, fill_value=None) -> pd.DataFrame:
+    """
+    Function to interpolate values for missing years in the dataframe. 
+    If all the entries for a country are missing, we set them to fill_value.
+    Input
+        df: pandas DataFrame
+        year_range: tuple of two integers (start_year, end_year)
+        fill_value: value to fill for countries with all missing values 
+    Output:
+        df: pandas DataFrame with interpolated values for missing years
+    Usage:
+        df = interpolate_years(df, (1952, 2021))
+    """
+    all_years = list(range(year_range[0], year_range[1]))
+
+    for year in all_years:
+        if str(year) not in df.columns:
+            df[str(year)] = np.nan
+    
+    year_columns = [str(year) for year in all_years]
+    df = df[['country'] + year_columns]
+
+    for year in year_columns:
+        df[year] = df[year].apply(value_to_float)
+
+    for i, row in df.iterrows():
+        numeric_data = pd.to_numeric(row[year_columns], errors='coerce')
+        if numeric_data.isna().all():
+            df.loc[i, year_columns] = fill_value
+        else:
+            interpolated = numeric_data.interpolate(method='linear', limit_direction='both')
+            first_valid = interpolated.first_valid_index()
+            last_valid = interpolated.last_valid_index()
+        
+            if first_valid is not None and last_valid is not None:
+                interpolated.loc[:first_valid] = interpolated.loc[first_valid]
+                interpolated.loc[last_valid:] = interpolated.loc[last_valid]
+            
+            df.loc[i, year_columns] = interpolated
+    
+    return df
 
 def main():
     # Read the CSV files
@@ -37,6 +82,15 @@ def main():
     area_df = pd.read_csv('dataset/surface_area_sq_km.csv')
     urban_df = pd.read_csv('dataset/urban_population_percent_of_total.csv')
     bmi_df = pd.read_csv('dataset/body_mass_index_bmi_men_kgperm2.csv')
+    democracy_df = pd.read_csv('dataset/democracy_score.csv')
+
+    # Calculate mean BMI for each country
+    bmi_mean = bmi_df.set_index('country').mean(axis=1).to_dict()
+
+    # Interpolate missing values for the democracy score, area, and urban population dataframes
+    democracy_df = interpolate_years(democracy_df, (1952, 2021), fill_value=-10)
+    area_df = interpolate_years(area_df, (1952, 2021))
+    urban_df = interpolate_years(urban_df, (1952, 2021))
 
     # Melt the dataframes to have year as a column
     pop_df = pd.melt(pop_df, id_vars=['country'], var_name='year', value_name='population')
@@ -46,19 +100,22 @@ def main():
     area_df = pd.melt(area_df, id_vars=['country'], var_name='year', value_name='surface_area_sq_km')
     urban_df = pd.melt(urban_df, id_vars=['country'], var_name='year', value_name='urban_population_percent')
     bmi_df = pd.melt(bmi_df, id_vars=['country'], var_name='year', value_name='bmi')
+    democracy_df = pd.melt(democracy_df, id_vars=['country'], var_name='year', value_name='democracy_score')
 
     # Convert year to int
-    for df in [pop_df, lex_df, pop_20_39_df, gdp_df, area_df, urban_df, bmi_df]:
+    for df in [pop_df, lex_df, pop_20_39_df, gdp_df, area_df, urban_df, bmi_df, democracy_df]:
         df['year'] = df['year'].astype(int)
 
     # Apply value_to_float function to population and gdp_per_capita columns
     pop_df['population'] = pop_df['population'].apply(value_to_float)
     gdp_df['gdp_per_capita'] = gdp_df['gdp_per_capita'].apply(value_to_float)
     area_df['surface_area_sq_km'] = area_df['surface_area_sq_km'].apply(value_to_float)
+    democracy_df['democracy_score'] = democracy_df['democracy_score'].apply(value_to_float)
 
     # Merge all dataframes
     final_df = medals_df.copy()
-    for df in [pop_df, lex_df, pop_20_39_df, gdp_df, area_df, urban_df, bmi_df]:
+    # for df in [pop_df, lex_df, pop_20_39_df, gdp_df, area_df, urban_df, bmi_df]:
+    for df in [pop_df, lex_df, pop_20_39_df, gdp_df, area_df, urban_df, democracy_df]:
         final_df = final_df.merge(df, left_on=['country_name', 'year'], right_on=['country', 'year'], how='left')
         final_df = final_df.drop('country', axis=1)  # Drop the redundant 'country' column after each merge
 
@@ -70,21 +127,26 @@ def main():
     final_df['total_medal_count'] = final_df['total_medal_count'].astype(int)
     final_df['hosting_status'] = final_df['hosting_status'].astype(int)
     final_df['population'] = final_df['population'].astype(int)
-    final_df['gdp_per_capita'] = final_df['gdp_per_capita'].astype(float)
+    final_df['gdp_per_capita'] = final_df['gdp_per_capita'].astype(int)
     final_df['life_expectancy'] = final_df['life_expectancy'].astype(float)
     final_df['pop_20_39_percent'] = final_df['pop_20_39_percent'].astype(float)
+    final_df['area_sq_km'] = final_df['surface_area_sq_km'].astype(int)
+    final_df['urban_population_percent'] = final_df['urban_population_percent'].astype(float)
+    final_df['bmi_mean'] = final_df['country_name'].map(bmi_mean).astype(float)
+    final_df['democracy_score'] = final_df['democracy_score'].astype(float)
 
     # Reorder columns
     column_order = ['country_name', 'country_code_2', 'country_code_3', 'year', 'hosting_status', 'population', 
-                    'gdp_per_capita', 'life_expectancy', 'pop_20_39_percent', 'total_medal_count', 'slug_game']
+                    'gdp_per_capita', 'life_expectancy', 'pop_20_39_percent', 'urban_population_percent', 'bmi_mean',
+                    'area_sq_km', 'democracy_score', 'total_medal_count', 'slug_game']
     final_df = final_df[column_order]
 
-    # Display the first few rows and info about the dataframe
+    # Save the final dataframe to a CSV file
+    final_df = final_df.dropna()
     print(final_df.head())
     print(final_df.info())
 
-    # Save the final dataframe to a CSV file
-    final_df.to_csv('olympic_analysis_data_updated.csv', index=False)
+    final_df.to_csv('olympic_analysis_data.csv', index=False)
 
 if __name__ == '__main__':
     main()
