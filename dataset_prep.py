@@ -12,11 +12,13 @@ def value_to_float(x):
     """
     if type(x) == float or type(x) == int:
         return x
-    if type(x) == str:
-        if x.isnumeric():
+    elif type(x) == str:
+        if x.isnumeric() or x.lstrip('-').isnumeric():
             return float(x)
-        if '\U00002013' in x: 
-            float(x.replace('\U00002013', '-'))
+        if '\u2212' in x:
+            return float(x.replace('\u2212', '-'))
+        if '\u2013' in x:
+            return float(x.replace('\u2013', '-'))
         if 'k' in x:
             if len(x) > 1:
                 return float(x.replace('k', '')) * 1000
@@ -26,9 +28,9 @@ def value_to_float(x):
                 return float(x.replace('M', '')) * 1000000
             return 1000000.0
         if 'B' in x:
-            return float(x.replace('B', '')) * 1000000000
-    
-    return 0.
+            return float(x.replace('B', '')) * 1000000000  
+    else:
+        raise ValueError(f'Cannot convert {x} to float')
 
 def interpolate_years(df: pd.DataFrame, year_range: tuple, fill_value=None) -> pd.DataFrame:
     """
@@ -133,7 +135,7 @@ def main():
     final_df['area_sq_km'] = final_df['surface_area_sq_km'].astype(int)
     final_df['urban_population_percent'] = final_df['urban_population_percent'].astype(float)
     final_df['bmi_mean'] = final_df['country_name'].map(bmi_mean).astype(float)
-    final_df['democracy_score'] = final_df['democracy_score'].astype(float)
+    final_df['democracy_score'] = final_df['democracy_score'].astype(int)
 
     # Reorder columns
     column_order = ['country_name', 'country_code_2', 'country_code_3', 'year', 'hosting_status', 'population', 
