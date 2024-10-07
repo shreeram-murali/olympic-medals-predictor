@@ -74,6 +74,49 @@ def interpolate_years(df: pd.DataFrame, year_range: tuple, fill_value=None) -> p
     
     return df
 
+def standardize_country_names(df, country_col='country'):
+    """
+    Function to replace mismatched country names to a standarised one. 
+    Input:
+        - df: dataframe 
+        - country_col: string that represents the country column in said dataframe
+    Output:
+        - dataframe
+    """
+    country_mapping = {
+        'United States of America': 'USA',
+        'United States': 'USA',
+        'Russian Federation': 'Russia',
+        "ROC": 'Russia', 
+        'Great Britain': 'UK',
+        "People's Republic of China": 'China', 
+        "United Arab Emirates": 'UAE', 
+        "Syrian Arab Republic": 'Syria', 
+        "Republic of Korea": 'South Korea', 
+        "Democratic People's Republic of Korea": 'North Korea', 
+        "United Republic of Tanzania": 'Tanzania', 
+        "Federal Republic of Germany": 'Germany', 
+        "German Democratic Republic (Germany)": 'Germany', 
+        "Republic of Moldova": 'Moldova', 
+        "Côte d'Ivoire": "Cote d'Ivoire", 
+        "Islamic Republic of Iran": 'Iran', 
+    }
+    df[country_col] = df[country_col].replace(country_mapping)
+    return df
+
+def check_country_mismatches(df_list, country_col='country'):
+    all_countries = set()
+    for df in df_list:
+        all_countries.update(df[country_col].unique())
+    
+    for df in df_list:
+        missing_countries = all_countries - set(df[country_col].unique())
+        if missing_countries:
+            print(f"Countries missing in {df.name if hasattr(df, 'name') else 'a dataframe'}:")
+            print(missing_countries)
+            print()
+
+
 def main():
     # Read the CSV files
     medals_df = pd.read_csv('dataset/summer_olympic_medal_tally_updated.csv')
@@ -85,6 +128,9 @@ def main():
     urban_df = pd.read_csv('dataset/urban_population_percent_of_total.csv')
     bmi_df = pd.read_csv('dataset/body_mass_index_bmi_men_kgperm2.csv')
     democracy_df = pd.read_csv('dataset/democracy_score.csv')
+
+    # Standardise the country names in medals_df
+    medals_df = standardize_country_names(medals_df, 'country_name')
 
     # Calculate mean BMI for each country
     bmi_mean = bmi_df.set_index('country').mean(axis=1).to_dict()
